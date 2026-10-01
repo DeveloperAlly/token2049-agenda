@@ -6,12 +6,13 @@
 //      GET /data/<event>/<file>      sessions.json | sessions.csv
 //      POST /run  (Authorization: Bearer RUN_TOKEN)   manual sync, only if RUN_TOKEN is set
 // Secrets (wrangler secret put): GITHUB_TOKEN, GOOGLE_SERVICE_ACCOUNT_JSON (optional), RUN_TOKEN (optional)
-// Vars (wrangler.toml): GITHUB_REPOSITORY, SHEET_ID (optional)
+// Vars (wrangler.toml): GITHUB_REPOSITORY. Per-event sheet ids are read from the GitHub repo variables
+// (<EVENT_ID>_SHEET_ID), the same ones the Action uses, so there is one place to configure them.
 import { parseHtmlRewriter } from '../../src/engines/htmlrewriter.js';
 import { sync } from '../../src/sync/sync.js';
 import { github } from '../../src/sinks/github.js';
 import { snapshotStore, dataDir } from '../../src/sinks/snapshot.js';
-import { sheetsSink } from '../../src/sinks/sheets.js';
+import { sheetsSink, sheetIdVarName } from '../../src/sinks/sheets.js';
 
 const BACKEND = 'cloudflare';
 const UA = 'token2049-agenda-sync (+https://github.com/DeveloperAlly/token2049-agenda)';
@@ -32,11 +33,11 @@ async function runAll(env, { force = false } = {}) {
     return { skipped: true, selected };
   }
   const store = snapshotStore(client);
-  const sinks = env.GOOGLE_SERVICE_ACCOUNT_JSON && env.SHEET_ID
-    ? [sheetsSink({ serviceAccountJson: env.GOOGLE_SERVICE_ACCOUNT_JSON, sheetId: env.SHEET_ID })] : [];
   const results = {};
   for (const event of (await loadEvents(client)).filter((e) => e.active)) {
     try {
+      const sheetId = env.GOOGLE_SERVICE_ACCOUNT_JSON ? await client.getVariable(sheetIdVarName(event)) : null;
+      const sinks = sheetId ? [sheetsSink({ serviceAccountJson: env.GOOGLE_SERVICE_ACCOUNT_JSON, sheetId })] : [];
       results[event.id] = await sync(event, {
         fetchText: async (url) => {
           const res = await fetch(url, { headers: { 'user-agent': UA } });

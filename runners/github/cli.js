@@ -9,7 +9,7 @@ import { parseDom } from '../../src/engines/dom.js';
 import { sync } from '../../src/sync/sync.js';
 import { github } from '../../src/sinks/github.js';
 import { snapshotStore } from '../../src/sinks/snapshot.js';
-import { sheetsSink } from '../../src/sinks/sheets.js';
+import { sheetsSink, sheetIdVarName } from '../../src/sinks/sheets.js';
 
 const BACKEND = 'github';
 const args = process.argv.slice(2);
@@ -62,11 +62,15 @@ async function main() {
 
   const gh = github({ token: process.env.GITHUB_TOKEN, repo: process.env.GITHUB_REPOSITORY, branch: process.env.SYNC_BRANCH || 'main' });
   const store = snapshotStore(gh);
+  // Repository variables arrive as JSON (ACTIONS_VARS: ${{ toJSON(vars) }}), so each event finds its own sheet id.
+  const vars = JSON.parse(process.env.ACTIONS_VARS || '{}');
+  const sheetVar = sheetIdVarName(event);
+  const sheetId = vars[sheetVar] || process.env.SHEET_ID;
   const sinks = [];
-  if (process.env.GOOGLE_SERVICE_ACCOUNT_JSON && process.env.SHEET_ID) {
-    sinks.push(sheetsSink({ serviceAccountJson: process.env.GOOGLE_SERVICE_ACCOUNT_JSON, sheetId: process.env.SHEET_ID }));
+  if (process.env.GOOGLE_SERVICE_ACCOUNT_JSON && sheetId) {
+    sinks.push(sheetsSink({ serviceAccountJson: process.env.GOOGLE_SERVICE_ACCOUNT_JSON, sheetId }));
   } else {
-    console.log('Google Sheets not configured (GOOGLE_SERVICE_ACCOUNT_JSON / SHEET_ID); skipping sheet.');
+    console.log(`Google Sheets not configured (secret GOOGLE_SERVICE_ACCOUNT_JSON + variable ${sheetVar}); skipping sheet.`);
   }
 
   const result = await sync(event, {

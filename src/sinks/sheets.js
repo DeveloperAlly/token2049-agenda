@@ -32,6 +32,15 @@ async function accessToken(sa, f) {
   return (await res.json()).access_token;
 }
 
+/**
+ * Which variable holds an event's sheet id. Convention: <EVENT_ID_IN_UPPER_SNAKE>_SHEET_ID
+ * (token2049-singapore-2026 -> TOKEN2049_SINGAPORE_2026_SHEET_ID); override with event.sheet.idVar.
+ * One sheet per event, no code change per event.
+ */
+export function sheetIdVarName(event) {
+  return event.sheet?.idVar || `${event.id.toUpperCase().replace(/[^A-Z0-9]+/g, '_')}_SHEET_ID`;
+}
+
 export const SESSION_HEADERS = ['status', 'id', 'day', 'start', 'end', 'timezone', 'durationMin', 'stage', 'type', 'title',
   'speakers', 'moderators', 'venue', 'firstSeen', 'lastChanged', 'addToGoogleCalendar'];
 
@@ -67,9 +76,10 @@ export function sheetsSink({ serviceAccountJson, sheetId, fetch: f = fetch }) {
         if (!res.ok) throw new Error(`Sheets ${method} -> ${res.status}: ${(await res.text()).slice(0, 300)}`);
         return res.json();
       };
-      const prefix = out.event.sheet?.tabPrefix || out.event.id;
+      // Tabs: sessions / stages / changelog. Set event.sheet.tabPrefix only if several events share one sheet.
+      const prefix = out.event.sheet?.tabPrefix ? `${out.event.sheet.tabPrefix} ` : '';
       const tables = buildTables(out);
-      const tabs = { [`${prefix} sessions`]: tables.sessions, [`${prefix} stages`]: tables.stages, [`${prefix} changelog`]: tables.changelog };
+      const tabs = { [`${prefix}sessions`]: tables.sessions, [`${prefix}stages`]: tables.stages, [`${prefix}changelog`]: tables.changelog };
 
       const meta = await call('GET', `${base}?fields=sheets.properties.title`);
       const existing = new Set(meta.sheets.map((s) => s.properties.title));

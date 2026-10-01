@@ -2,7 +2,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { generateKeyPairSync, createVerify } from 'node:crypto';
-import { sheetsSink } from '../src/sinks/sheets.js';
+import { sheetsSink, sheetIdVarName } from '../src/sinks/sheets.js';
 import { normalise } from '../src/core/index.js';
 import { applyToState } from '../src/sync/state.js';
 
@@ -44,4 +44,9 @@ test('sheets sink: valid JWT, creates missing tabs, writes RAW values', async ()
   const sessionsTab = write.data.find((d) => d.range === "'SG26 sessions'!A1").values;
   assert.equal(sessionsTab[1][9], '=HYPERLINK("http://evil")');
   assert.ok(calls.every((c) => c.url.startsWith('https://oauth2.googleapis.com/') || c.url.startsWith('https://sheets.googleapis.com/v4/spreadsheets/SHEET')));
+});
+
+test('sheet id variable name follows the event id', () => {
+  assert.equal(sheetIdVarName({ id: 'token2049-singapore-2026' }), 'TOKEN2049_SINGAPORE_2026_SHEET_ID');
+  assert.equal(sheetIdVarName({ id: 'x', sheet: { idVar: 'MY_SHEET' } }), 'MY_SHEET');
 });

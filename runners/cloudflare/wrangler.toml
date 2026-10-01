@@ -10,4 +10,3 @@ crons = ["17 */3 * * *"]
 
 [vars]
 GITHUB_REPOSITORY = "DeveloperAlly/token2049-agenda"
-# SHEET_ID = ""
