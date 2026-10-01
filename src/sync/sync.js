@@ -58,15 +58,15 @@ export async function sync(event, deps) {
     },
   };
 
-  // 4. publish (skip when nothing changed, so the feed and history stay quiet)
-  if (changed) {
-    await deps.publish(out);
-    for (const sink of deps.sinks || []) {
-      log(`sink: ${sink.name}`);
-      await sink.publish(out);
-    }
-  } else {
-    log('no changes; nothing published');
+  // 4. commit snapshot only when something changed (keeps git history and the feed quiet)
+  if (changed) await deps.publish(out);
+  else log('no changes; snapshot not committed');
+
+  // 5. sinks (sheet) run every time: idempotent full rewrite, so a sheet configured later, or edited
+  //    by hand, is always brought back in line with the site.
+  for (const sink of deps.sinks || []) {
+    log(`sink: ${sink.name}`);
+    await sink.publish(out);
   }
   return { ok: true, count: sessions.length, changed, diff: { added: d.added.length, removed: d.removed.length, changed: d.changed.length } };
 }

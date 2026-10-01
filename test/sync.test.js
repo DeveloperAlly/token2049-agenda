@@ -34,7 +34,8 @@ test('first run publishes; identical second run publishes nothing', async () => 
   assert.equal(store.published, 1);
   const r2 = await sync(ev, deps(lastPage, '2026-10-01T03:00:00Z'));
   assert.equal(r2.changed, false);
-  assert.equal(store.published, 1);
+  assert.equal(store.published, 1);  // no new commit
+  assert.equal(store.sheets.length, 2); // but the sheet is rewritten every run (self-healing)
 });
 
 test('field change and removal are logged; removed rows are kept and marked', async () => {
