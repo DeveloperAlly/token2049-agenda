@@ -7,7 +7,7 @@
   "match": ["https://token2049.com/singapore/agenda*", "https://www.token2049.com/singapore/agenda*"],
   "pagination": { "param": "630073d5_page", "maxPages": 20 },
   "timezone": "Asia/Singapore",
-  "venue": "Marina Bay Sands, Singapore",
+  "venue": "Marina Bay Sands, 10 Bayfront Avenue, Singapore 018956",
   "dates": ["2026-10-07", "2026-10-08"],
   "sanity": { "minSessions": 50, "maxDropRatio": 0.2 },
   "stageAliases": {}

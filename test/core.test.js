@@ -5,7 +5,7 @@ import {
   normalise, googleCalendarUrl, toIcs, diff, sanityCheck, toCsv,
 } from '../src/core/index.js';
 
-const event = { id: 'e', timezone: 'Asia/Singapore', venue: 'Marina Bay Sands, Singapore', agendaUrl: 'https://x.test/agenda' };
+const event = { id: 'e', timezone: 'Asia/Singapore', venue: 'Marina Bay Sands, 10 Bayfront Avenue, Singapore 018956', agendaUrl: 'https://x.test/agenda' };
 
 test('time parsing', () => {
   assert.equal(parseDay('October 7, 2026'), '2026-10-07');
@@ -61,7 +61,7 @@ test('google calendar url', () => {
   assert.equal(u.searchParams.get('action'), 'TEMPLATE');
   assert.equal(u.searchParams.get('dates'), '20261007T013000Z/20261007T020000Z');
   assert.equal(u.searchParams.get('ctz'), 'Asia/Singapore');
-  assert.equal(u.searchParams.get('location'), 'OKX Main Stage, Marina Bay Sands, Singapore');
+  assert.equal(u.searchParams.get('location'), 'Marina Bay Sands, 10 Bayfront Avenue, Singapore 018956 - OKX Main Stage');
   assert.match(u.searchParams.get('details'), /Moderator:\n• Balaji Srinivasan - Founder, The Network State/);
 });
 

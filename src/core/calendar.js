@@ -14,8 +14,9 @@ export function describe(session) {
   return lines.join('\n');
 }
 
+/** Full venue address first (so Maps/Calendar can resolve it), room/stage last. */
 export function location(session) {
-  return [session.stage, session.venue].filter(Boolean).join(', ');
+  return [session.venue, session.stage].filter(Boolean).join(' - ');
 }
 
 export function utcRange(session) {
