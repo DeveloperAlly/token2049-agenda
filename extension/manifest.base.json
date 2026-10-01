@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Agenda to Calendar",
+  "short_name": "Agenda2Cal",
+  "description": "Add any conference session to Google Calendar or download it as .ics, right from the agenda page.",
+  "version": "0.1.0",
+  "icons": { "16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png" },
+  "content_scripts": [
+    { "matches": [], "js": ["content.js"], "run_at": "document_idle" }
+  ]
+}
