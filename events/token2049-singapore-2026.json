@@ -1,0 +1,14 @@
+{
+  "id": "token2049-singapore-2026",
+  "name": "TOKEN2049 Singapore 2026",
+  "active": true,
+  "adapter": "webflow-finsweet",
+  "agendaUrl": "https://token2049.com/singapore/agenda",
+  "match": ["https://token2049.com/singapore/agenda*", "https://www.token2049.com/singapore/agenda*"],
+  "pagination": { "param": "630073d5_page", "maxPages": 20 },
+  "timezone": "Asia/Singapore",
+  "venue": "Marina Bay Sands, Singapore",
+  "dates": ["2026-10-07", "2026-10-08"],
+  "sanity": { "minSessions": 50, "maxDropRatio": 0.2 },
+  "stageAliases": {}
+}
