@@ -1,0 +1,51 @@
+name: sync
+# Scrapes every active event and updates docs/data/<event>/*, the .ics feed and the Google Sheet.
+# Backend switch: repository variable SYNC_BACKEND = github (default) | cloudflare.
+on:
+  schedule:
+    - cron: '17 */3 * * *'   # every 3 hours (GitHub may delay scheduled runs)
+  workflow_dispatch:
+
+permissions:
+  contents: write   # commit snapshots
+  issues: write     # report sanity failures
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  events:
+    if: ${{ vars.SYNC_BACKEND != 'cloudflare' }}
+    runs-on: ubuntu-latest
+    outputs:
+      ids: ${{ steps.list.outputs.ids }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm install --no-audit --no-fund --omit=dev
+      - id: list
+        run: echo "ids=$(node runners/github/cli.js --list-active)" >> "$GITHUB_OUTPUT"
+
+  sync:
+    needs: events
+    if: ${{ needs.events.outputs.ids != '[]' }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 1   # one commit at a time
+      matrix:
+        event: ${{ fromJSON(needs.events.outputs.ids) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm install --no-audit --no-fund --omit=dev
+      - run: node runners/github/cli.js --event "${{ matrix.event }}"
+        env:
+          SYNC_BACKEND: ${{ vars.SYNC_BACKEND || 'github' }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          ACTIONS_VARS: ${{ toJSON(vars) }}   # per-event sheet ids, e.g. TOKEN2049_SINGAPORE_2026_SHEET_ID
