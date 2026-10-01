@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.wrangler/
+
+# secrets: never commit
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+credentials/
+*.pem
+*service-account*.json
+out/
+extension/dist/
+extension/src/events.generated.js
