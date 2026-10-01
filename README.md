@@ -9,6 +9,21 @@ Turns conference agenda pages into:
 
 Config-driven: a new event is one file in [`events/`](events/). A new site platform is one adapter in [`src/adapters/`](src/adapters/).
 
+## ADD EXTENSION TO CHROME/BRAVE LOCALLY
+
+To add the extension locally: 
+
+download agenda-to-calendar-extension-v1.zip
+unpack the zip file calendar
+go to chrome:://extensions or brave://extensions 
+turn on developer mode
+click "Load Unpacked”
+select the unpacked folder -> you're done!
+
+go to https://token2049.com/singapore/agenda
+
+Now you can save conference agenda items to your calendar. 
+
 ## Layout
 
 | Path | What |
