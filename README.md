@@ -97,8 +97,10 @@ flowchart TB
 ## Decisions Made
 
 1. **Calendar mode:** add-only links, the subscribed `.ics` feed for auto-updates, or both? Both -> since neither needs OAuth.
-2. **Google sign-in:** keyless (Workload Identity Federation, recommended, about 15 minutes of one-time Google Cloud setup on your side) or a key stored as a GitHub secret?
 
 Sources:
 - [GitHub repo: DeveloperAlly/token2049-agenda](https://github.com/DeveloperAlly/token2049-agenda)
 - [TOKEN2049 Dubai agenda page](https://token2049.com/dubai/agenda)
+
+
+
