@@ -14,7 +14,7 @@ Open source: you can read every line of the code, check how it works for your ow
 
 To add the extension locally: 
 
-download agenda-to-calendar-extension-v1.zip
+download [agenda-to-calendar-extension-v1.zip](https://github.com/DeveloperAlly/token2049-agenda/blob/main/agenda-to-calendar-extension-v1.zip)
 unpack the zip file calendar
 go to chrome:://extensions or brave://extensions 
 turn on developer mode
