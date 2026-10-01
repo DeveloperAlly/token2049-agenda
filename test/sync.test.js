@@ -10,6 +10,7 @@ const event = JSON.parse(await readFile(new URL('../events/token2049-singapore-2
 const fixture = await readFile(new URL('./fixtures/webflow-finsweet-page.html', import.meta.url), 'utf8');
 const lastPage = fixture.replace(/<div role="navigation"[\s\S]*?<\/div>/, ''); // no "next" link
 const ev = { ...event, sanity: { minSessions: 1, maxDropRatio: 0.5 } };
+const P = event.titlePrefix || '';
 
 // In-memory backend: what GitHub would hold.
 function memory() {
@@ -47,12 +48,12 @@ test('field change and removal are logged; removed rows are kept and marked', as
   const r = await sync(ev, deps(edited, '2026-10-01T03:00:00Z'));
   assert.deepEqual(r.diff, { added: 0, removed: 1, changed: 1 });
   const rows = Object.values(store.snapshot.state.rows);
-  const late = rows.find((x) => x.session.title === 'Late Night Close');
+  const late = rows.find((x) => x.session.title === P + 'Late Night Close');
   assert.equal(late.status, 'removed');
   assert.equal(late.removedAt, '2026-10-01T03:00:00.000Z');
   const changes = store.snapshot.state.changelog.map((c) => `${c.change}:${c.title}:${c.fields}`);
-  assert.ok(changes.includes('changed:Polymarket Fireside Chat:type'));
-  assert.ok(changes.includes('removed:Late Night Close:'));
+  assert.ok(changes.includes(`changed:${P}Polymarket Fireside Chat:type`));
+  assert.ok(changes.includes(`removed:${P}Late Night Close:`));
 
   const sheet = store.sheets.at(-1);
   assert.deepEqual(sheet.sessions[0], SESSION_HEADERS);

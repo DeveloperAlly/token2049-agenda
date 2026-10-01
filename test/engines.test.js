@@ -11,6 +11,7 @@ import { normalise } from '../src/core/index.js';
 const event = JSON.parse(await readFile(new URL('../events/token2049-singapore-2026.json', import.meta.url)));
 const html = await readFile(new URL('./fixtures/webflow-finsweet-page.html', import.meta.url), 'utf8');
 const adapter = getAdapter(event);
+const P = event.titlePrefix || ''; // real config prefixes titles, e.g. "[TOKEN2049] "
 
 // html-rewriter-wasm has a different API from the Workers global; wrap it to the Workers shape.
 class WasmRewriter {
@@ -44,20 +45,20 @@ test('DOM engine parses the fixture', () => {
   assert.deepEqual(problems, []);
   const byTitle = Object.fromEntries(sessions.map((s) => [s.title, s]));
 
-  const reg = byTitle['Registration and Continental Breakfast'];
+  const reg = byTitle[P + 'Registration and Continental Breakfast'];
   assert.equal(reg.stage, null);                 // highlight card: hidden stage list must be ignored
   assert.equal(reg.type, 'General');
   assert.equal(reg.durationMin, 90);
 
-  const fire = byTitle['Polymarket Fireside Chat'];
+  const fire = byTitle[P + 'Polymarket Fireside Chat'];
   assert.equal(fire.stage, 'OKX Main Stage');
   assert.deepEqual(fire.speakers.map((s) => [s.name, s.role]), [['Shayne Coplan', 'speaker'], ['Balaji Srinivasan', 'moderator']]);
 
-  const z = byTitle["Privacy & Zcash: What's Next"];
+  const z = byTitle[P + "Privacy & Zcash: What's Next"];
   assert.equal(z.day, '2026-10-08');
   assert.equal(z.speakers[0].name, 'Zooko');
 
-  const late = byTitle['Late Night Close'];
+  const late = byTitle[P + 'Late Night Close'];
   assert.equal(late.end, '2026-10-09T00:15');    // crosses midnight
   assert.equal(late.speakers.length, 0);
 });
