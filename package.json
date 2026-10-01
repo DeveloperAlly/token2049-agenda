@@ -1,0 +1,24 @@
+{
+  "name": "token2049-agenda",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Scrape conference agendas into a sheet, an .ics feed and a Chrome extension. Config-driven, two backends (GitHub Actions, Cloudflare Workers).",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\"",
+    "sync": "node runners/github/cli.js",
+    "build:extension": "node scripts/build-extension.js",
+    "worker:dev": "npx --prefix runners/cloudflare wrangler dev --config runners/cloudflare/wrangler.toml --test-scheduled",
+    "worker:deploy": "npx --prefix runners/cloudflare wrangler deploy --config runners/cloudflare/wrangler.toml"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "html-rewriter-wasm": "^0.4.1"
+  },
+  "dependencies": {
+    "linkedom": "^0.18.13"
+  }
+}
