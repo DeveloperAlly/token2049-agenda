@@ -70,7 +70,8 @@ async function main() {
   if (process.env.GOOGLE_SERVICE_ACCOUNT_JSON && sheetId) {
     sinks.push(sheetsSink({ serviceAccountJson: process.env.GOOGLE_SERVICE_ACCOUNT_JSON, sheetId }));
   } else {
-    console.log(`Google Sheets not configured (secret GOOGLE_SERVICE_ACCOUNT_JSON + variable ${sheetVar}); skipping sheet.`);
+    console.log(`::warning::Google Sheet skipped: ${process.env.GOOGLE_SERVICE_ACCOUNT_JSON ? 'found' : 'MISSING'} secret GOOGLE_SERVICE_ACCOUNT_JSON, `
+      + `${sheetId ? 'found' : 'MISSING'} repository VARIABLE ${sheetVar} (Settings > Secrets and variables > Actions > Variables tab; a secret with this name is not read).`);
   }
 
   const result = await sync(event, {
