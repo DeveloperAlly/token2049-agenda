@@ -1,0 +1,5621 @@
+{
+  "version": 1,
+  "lastRunAt": "2026-10-01T10:09:00.093Z",
+  "lastChangedAt": "2026-10-01T10:09:00.093Z",
+  "rows": {
+    "a306cf1f74467159": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "a306cf1f74467159",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T07:30",
+        "end": "2026-10-07T09:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 90,
+        "stage": null,
+        "type": "General",
+        "title": "Registration and Continental Breakfast",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "1cb6154a10041250": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "1cb6154a10041250",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T09:00",
+        "end": "2026-10-07T09:10",
+        "timezone": "Asia/Singapore",
+        "durationMin": 10,
+        "stage": "OKX Main Stage",
+        "type": "Intro",
+        "title": "Welcome to TOKEN2049 Singapore",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "fd00462dd173fc03": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "fd00462dd173fc03",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T09:10",
+        "end": "2026-10-07T09:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "OKX Main Stage",
+        "type": "Keynote",
+        "title": "The Open Source Network State",
+        "speakers": [
+          {
+            "name": "Balaji Srinivasan",
+            "firstName": "Balaji",
+            "lastName": "Srinivasan",
+            "job": "Founder",
+            "company": "The Network State",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "6a3e7d86838eb908": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "6a3e7d86838eb908",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T09:15",
+        "end": "2026-10-07T09:50",
+        "timezone": "Asia/Singapore",
+        "durationMin": 35,
+        "stage": "MEXC Stage",
+        "type": "Panel",
+        "title": "The Next Cycle: Investing in a Changed Market",
+        "speakers": [
+          {
+            "name": "Arthur Cheong",
+            "firstName": "Arthur",
+            "lastName": "Cheong",
+            "job": "CEO and CIO",
+            "company": "DeFiance Capital",
+            "role": "speaker"
+          },
+          {
+            "name": "Jason Kam",
+            "firstName": "Jason",
+            "lastName": "Kam",
+            "job": "Founder",
+            "company": "Folius Ventures",
+            "role": "speaker"
+          },
+          {
+            "name": "Zaheer Ebtikar",
+            "firstName": "Zaheer",
+            "lastName": "Ebtikar",
+            "job": "CSO",
+            "company": "Plasma",
+            "role": "speaker"
+          },
+          {
+            "name": "Avi Felman",
+            "firstName": "Avi",
+            "lastName": "Felman",
+            "job": "CEO",
+            "company": "1000x Media",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "7631656b8a70b7e5": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "7631656b8a70b7e5",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T09:30",
+        "end": "2026-10-07T10:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "OKX Main Stage",
+        "type": "Fireside",
+        "title": "Polymarket Fireside Chat",
+        "speakers": [
+          {
+            "name": "Shayne Coplan",
+            "firstName": "Shayne",
+            "lastName": "Coplan",
+            "job": "Founder and CEO",
+            "company": "Polymarket",
+            "role": "speaker"
+          },
+          {
+            "name": "Balaji Srinivasan",
+            "firstName": "Balaji",
+            "lastName": "Srinivasan",
+            "job": "Founder",
+            "company": "The Network State",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "a712f140ef9f4a6a": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "a712f140ef9f4a6a",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T09:50",
+        "end": "2026-10-07T10:10",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "MEXC Stage",
+        "type": "Fireside",
+        "title": "Market Wizards",
+        "speakers": [
+          {
+            "name": "Dim Selk",
+            "firstName": "Dim",
+            "lastName": "Selk",
+            "job": "Investments",
+            "company": "Selini Capital",
+            "role": "speaker"
+          },
+          {
+            "name": "Jordi Alexander",
+            "firstName": "Jordi",
+            "lastName": "Alexander",
+            "job": "Founder",
+            "company": "Selini Capital",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "2c52a4b3e194d275": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "2c52a4b3e194d275",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T10:00",
+        "end": "2026-10-07T10:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "BingX Labs Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Zooko",
+            "firstName": "Zooko",
+            "lastName": "",
+            "job": "CPO",
+            "company": "Shielded Labs / Zcash",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "b216252431294446": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "b216252431294446",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T10:00",
+        "end": "2026-10-07T10:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "OKX Main Stage",
+        "type": "Keynote",
+        "title": "Crypto Spring Turning Into Full Blown Bull Market",
+        "speakers": [
+          {
+            "name": "Tom Lee",
+            "firstName": "Tom",
+            "lastName": "Lee",
+            "job": "CIO and Portfolio Manager / Chairman",
+            "company": "Fundstrat / BitMine",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "fc9a9dfd9d0f4937": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "fc9a9dfd9d0f4937",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T10:10",
+        "end": "2026-10-07T10:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "MEXC Stage",
+        "type": "Fireside",
+        "title": "Building the Neobrokerage",
+        "speakers": [
+          {
+            "name": "Armani Ferrante",
+            "firstName": "Armani",
+            "lastName": "Ferrante",
+            "job": "Founder and CEO",
+            "company": "Backpack Exchange",
+            "role": "speaker"
+          },
+          {
+            "name": "Kyle Samani",
+            "firstName": "Kyle",
+            "lastName": "Samani",
+            "job": "Chairman",
+            "company": "Forward Industries",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "9b351aaebec9a700": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "9b351aaebec9a700",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T10:15",
+        "end": "2026-10-07T10:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Crypto-Agility in the Age of Quantum: Introducing Strongpoint",
+        "speakers": [
+          {
+            "name": "Alex Pruden",
+            "firstName": "Alex",
+            "lastName": "Pruden",
+            "job": "Co-Founder and CEO",
+            "company": "Project Eleven",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "121b2f788a2adf3e": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "121b2f788a2adf3e",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T10:20",
+        "end": "2026-10-07T10:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "BingX Labs Stage",
+        "type": "Keynote",
+        "title": "Crypto x AI: Funding the Next Industrial Revolution",
+        "speakers": [
+          {
+            "name": "Alex Pack",
+            "firstName": "Alex",
+            "lastName": "Pack",
+            "job": "Managing Partner",
+            "company": "Hack VC",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "a9abce5408d4ebf6": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "a9abce5408d4ebf6",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T10:20",
+        "end": "2026-10-07T11:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 40,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "DeFi’s Institutional Breakthrough",
+        "speakers": [
+          {
+            "name": "Stani Kulechov",
+            "firstName": "Stani",
+            "lastName": "Kulechov",
+            "job": "Founder and CEO",
+            "company": "Aave Labs",
+            "role": "speaker"
+          },
+          {
+            "name": "Guy Young",
+            "firstName": "Guy",
+            "lastName": "Young",
+            "job": "CEO",
+            "company": "Ethena Labs",
+            "role": "speaker"
+          },
+          {
+            "name": "Kain Warwick",
+            "firstName": "Kain",
+            "lastName": "Warwick",
+            "job": "Founder",
+            "company": "Infinex / Synthetix",
+            "role": "speaker"
+          },
+          {
+            "name": "Robbie Petersen",
+            "firstName": "Robbie",
+            "lastName": "Petersen",
+            "job": "Investment Partner",
+            "company": "a16z crypto",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "188a05adb6de961b": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "188a05adb6de961b",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T10:30",
+        "end": "2026-10-07T10:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Steven Goldfeder",
+            "firstName": "Steven",
+            "lastName": "Goldfeder",
+            "job": "Co-Founder and CEO",
+            "company": "Offchain Labs",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "08a96a9707b955bd": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "08a96a9707b955bd",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T10:30",
+        "end": "2026-10-07T10:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Wall St. 2049: Everything Trades, Nobody Sleeps",
+        "speakers": [
+          {
+            "name": "Akshay BD",
+            "firstName": "Akshay",
+            "lastName": "BD",
+            "job": "Non-CMO",
+            "company": "Solana Foundation",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "4cfcc8e8f3117af2": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "4cfcc8e8f3117af2",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T10:40",
+        "end": "2026-10-07T11:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "BingX Labs Stage",
+        "type": "Keynote",
+        "title": "Intelligence You Own, Not Rent",
+        "speakers": [
+          {
+            "name": "Emad Mostaque",
+            "firstName": "Emad",
+            "lastName": "Mostaque",
+            "job": "Founder and CEO",
+            "company": "Intelligent Internet",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "d5afd4fd34b458af": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "d5afd4fd34b458af",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T10:45",
+        "end": "2026-10-07T11:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Yoshi Yokokawa",
+            "firstName": "Yoshi",
+            "lastName": "Yokokawa",
+            "job": "Co-Founder and CEO",
+            "company": "Alpaca",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "73614e73d6f88235": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "73614e73d6f88235",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T10:45",
+        "end": "2026-10-07T11:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Keone Hon",
+            "firstName": "Keone",
+            "lastName": "Hon",
+            "job": "Co-Founder",
+            "company": "Monad Foundation",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "388f5b961b13d0e4": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "388f5b961b13d0e4",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T11:00",
+        "end": "2026-10-07T11:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "BingX Labs Stage",
+        "type": "Keynote",
+        "title": "AI Agents Trading on the Blockchain",
+        "speakers": [
+          {
+            "name": "Alexander Good",
+            "firstName": "Alexander",
+            "lastName": "Good",
+            "job": "CEO",
+            "company": "Post Fiat",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "4f14bcf6b4b9c8a8": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "4f14bcf6b4b9c8a8",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T11:00",
+        "end": "2026-10-07T11:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Agentic Trading: Will AI Outperform Human Traders?",
+        "speakers": [
+          {
+            "name": "Alex Svanevik",
+            "firstName": "Alex",
+            "lastName": "Svanevik",
+            "job": "Co-Founder and CEO",
+            "company": "Nansen",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "f88e14f246a0ed5c": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "f88e14f246a0ed5c",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T11:00",
+        "end": "2026-10-07T11:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Onchain Options, Derivatives and the US Market",
+        "speakers": [
+          {
+            "name": "Vladimir Novakovski",
+            "firstName": "Vladimir",
+            "lastName": "Novakovski",
+            "job": "Founder and CEO",
+            "company": "Lighter",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "5ebd68b212c33d90": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "5ebd68b212c33d90",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T11:00",
+        "end": "2026-10-07T11:35",
+        "timezone": "Asia/Singapore",
+        "durationMin": 35,
+        "stage": "OKX Main Stage",
+        "type": "Fireside",
+        "title": "Hyperliquid: Rebuilding Finance from First Principles",
+        "speakers": [
+          {
+            "name": "Jeff Yan",
+            "firstName": "Jeff",
+            "lastName": "Yan",
+            "job": "CEO",
+            "company": "Hyperliquid Labs",
+            "role": "speaker"
+          },
+          {
+            "name": "Hart Lambur",
+            "firstName": "Hart",
+            "lastName": "Lambur",
+            "job": "Co-Founder",
+            "company": "Risk Labs",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "e914d80dd09fe2ef": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "e914d80dd09fe2ef",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T11:15",
+        "end": "2026-10-07T11:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Leo Zhang",
+            "firstName": "Leo",
+            "lastName": "Zhang",
+            "job": "CEO",
+            "company": "42",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "503ae14da7935823": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "503ae14da7935823",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T11:15",
+        "end": "2026-10-07T11:35",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "The Memecoin Supercycle: Two Years Later",
+        "speakers": [
+          {
+            "name": "Murad Mahmudov",
+            "firstName": "Murad",
+            "lastName": "Mahmudov",
+            "job": "Investor",
+            "company": "",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "34b813503dbff12e": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "34b813503dbff12e",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T11:20",
+        "end": "2026-10-07T11:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "BingX Labs Stage",
+        "type": "Keynote",
+        "title": "Making AI and Finance Private by Default",
+        "speakers": [
+          {
+            "name": "Illia Polosukhin",
+            "firstName": "Illia",
+            "lastName": "Polosukhin",
+            "job": "Co-Founder",
+            "company": "NEAR Protocol",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "4dd8467ea1fc9e84": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "4dd8467ea1fc9e84",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T11:30",
+        "end": "2026-10-07T11:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Trasia Scout Mode: Defining Perp-trading Paradigm",
+        "speakers": [
+          {
+            "name": "Mable Jiang",
+            "firstName": "Mable",
+            "lastName": "Jiang",
+            "job": "Co-Founder",
+            "company": "Trasia",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "f54d0b756f57318b": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "f54d0b756f57318b",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T11:35",
+        "end": "2026-10-07T12:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 25,
+        "stage": "OKX Main Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Arthur Hayes",
+            "firstName": "Arthur",
+            "lastName": "Hayes",
+            "job": "CIO",
+            "company": "Maelstrom",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "1342a1e3223e4971": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "1342a1e3223e4971",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T11:40",
+        "end": "2026-10-07T12:10",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "BingX Labs Stage",
+        "type": "Fireside",
+        "title": "The Future of Crypto vs The Future of AI",
+        "speakers": [
+          {
+            "name": "Santiago Roel Santos",
+            "firstName": "Santiago",
+            "lastName": "Roel Santos",
+            "job": "Founder and CEO",
+            "company": "Inversion",
+            "role": "speaker"
+          },
+          {
+            "name": "Logan Jastremski",
+            "firstName": "Logan",
+            "lastName": "Jastremski",
+            "job": "Managing Partner",
+            "company": "Frictionless Capital",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "31e0e665ce3e82eb": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "31e0e665ce3e82eb",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T11:40",
+        "end": "2026-10-07T12:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "How Onchain Goes Mainstream",
+        "speakers": [
+          {
+            "name": "Paul Erlanger",
+            "firstName": "Paul",
+            "lastName": "Erlanger",
+            "job": "CEO",
+            "company": "fomo",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "60ee2b20b4d2bd3a": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "60ee2b20b4d2bd3a",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T11:45",
+        "end": "2026-10-07T12:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Fahmi Syed",
+            "firstName": "Fahmi",
+            "lastName": "Syed",
+            "job": "President",
+            "company": "Midnight",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "6c9b970514f4592b": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "6c9b970514f4592b",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T12:00",
+        "end": "2026-10-07T12:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Power of Vision",
+        "speakers": [
+          {
+            "name": "Andrei Grachev",
+            "firstName": "Andrei",
+            "lastName": "Grachev",
+            "job": "Managing Partner",
+            "company": "DWF Labs",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "87854fc87fc23df2": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "87854fc87fc23df2",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T12:00",
+        "end": "2026-10-07T12:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "The Base Case for Moving Money Onchain",
+        "speakers": [
+          {
+            "name": "Jesse Pollak",
+            "firstName": "Jesse",
+            "lastName": "Pollak",
+            "job": "Head of Base",
+            "company": "Base",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "ebd35ca45154333e": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "ebd35ca45154333e",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T12:00",
+        "end": "2026-10-07T12:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "OKX Main Stage",
+        "type": "Keynote",
+        "title": "The Exponential Age",
+        "speakers": [
+          {
+            "name": "Raoul Pal",
+            "firstName": "Raoul",
+            "lastName": "Pal",
+            "job": "Co-Founder and CEO",
+            "company": "Real Vision",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "ce1937b6817f4db8": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "ce1937b6817f4db8",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T12:10",
+        "end": "2026-10-07T12:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "BingX Labs Stage",
+        "type": "Fireside",
+        "title": "Robinhood Chain",
+        "speakers": [
+          {
+            "name": "Johann Kerbrat",
+            "firstName": "Johann",
+            "lastName": "Kerbrat",
+            "job": "GM and VP",
+            "company": "Robinhood Crypto",
+            "role": "speaker"
+          },
+          {
+            "name": "Ran Neuner",
+            "firstName": "Ran",
+            "lastName": "Neuner",
+            "job": "Founder",
+            "company": "Crypto Banter",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "45f85acc790136a6": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "45f85acc790136a6",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T12:15",
+        "end": "2026-10-07T12:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "The New Money Stack: Where Fiat Meets Crypto",
+        "speakers": [
+          {
+            "name": "Henri Stern",
+            "firstName": "Henri",
+            "lastName": "Stern",
+            "job": "Co-Founder and CEO",
+            "company": "Privy",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "8d4b98988aba0e42": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "8d4b98988aba0e42",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T12:30",
+        "end": "2026-10-07T12:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "BingX Labs Stage",
+        "type": "Keynote",
+        "title": "Welcome to the Trillion-Dollar Agentic Economy",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "942c4a949a412a06": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "942c4a949a412a06",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T12:30",
+        "end": "2026-10-07T12:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Next Billion Users Should Never Touch Blockchain",
+        "speakers": [
+          {
+            "name": "Pauline Shangett",
+            "firstName": "Pauline",
+            "lastName": "Shangett",
+            "job": "CSO",
+            "company": "ChangeNOW",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "a89c872707aef809": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "a89c872707aef809",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T12:30",
+        "end": "2026-10-07T13:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "MEXC Stage",
+        "type": "Panel",
+        "title": "Building the Next Global Trading Platform",
+        "speakers": [
+          {
+            "name": "Vugar Usi",
+            "firstName": "Vugar",
+            "lastName": "Usi",
+            "job": "CEO",
+            "company": "MEXC",
+            "role": "speaker"
+          },
+          {
+            "name": "Arjun Sethi",
+            "firstName": "Arjun",
+            "lastName": "Sethi",
+            "job": "Co-CEO",
+            "company": "Payward / Kraken",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "3d110769739daa07": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "3d110769739daa07",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T12:45",
+        "end": "2026-10-07T13:05",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "BingX Labs Stage",
+        "type": "Fireside",
+        "title": "From Charter to Checkout: Making Stablecoins Spendable",
+        "speakers": [
+          {
+            "name": "Zach Witkoff",
+            "firstName": "Zach",
+            "lastName": "Witkoff",
+            "job": "CEO",
+            "company": "World Liberty Financial",
+            "role": "speaker"
+          },
+          {
+            "name": "Bam Azizi",
+            "firstName": "Bam",
+            "lastName": "Azizi",
+            "job": "Co-Founder and CEO",
+            "company": "Mesh",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "d5e2c170b1daa516": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "d5e2c170b1daa516",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T12:45",
+        "end": "2026-10-07T13:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "Bit Digital Stage",
+        "type": "Panel",
+        "title": "The Next Generation of ETH",
+        "speakers": [
+          {
+            "name": "Sam Tabar",
+            "firstName": "Sam",
+            "lastName": "Tabar",
+            "job": "CEO",
+            "company": "Bit Digital",
+            "role": "speaker"
+          },
+          {
+            "name": "Matthew Dawson",
+            "firstName": "Matthew",
+            "lastName": "Dawson",
+            "job": "Co-Founder",
+            "company": "Ethereum Institutional",
+            "role": "speaker"
+          },
+          {
+            "name": "Amanda Cassatt",
+            "firstName": "Amanda",
+            "lastName": "Cassatt",
+            "job": "Founder and CEO",
+            "company": "Serotonin",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "16617435f26468a3": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "16617435f26468a3",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T13:00",
+        "end": "2026-10-07T14:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 60,
+        "stage": null,
+        "type": "General",
+        "title": "Lunch",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "b6385ee2c876e55c": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "b6385ee2c876e55c",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T14:00",
+        "end": "2026-10-07T14:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Bitcoin-Backed Tokens: The EverValue Case",
+        "speakers": [
+          {
+            "name": "Rafael Castaneda",
+            "firstName": "Rafael",
+            "lastName": "Castaneda",
+            "job": "Head of Ecosystem",
+            "company": "EVA",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "a8c2210e85ab3f1c": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "a8c2210e85ab3f1c",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T14:00",
+        "end": "2026-10-07T14:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "MEXC Stage",
+        "type": "Panel",
+        "title": "DeFi: The Race to Power Global Finance",
+        "speakers": [
+          {
+            "name": "TN Lee",
+            "firstName": "TN",
+            "lastName": "Lee",
+            "job": "CEO",
+            "company": "Pendle",
+            "role": "speaker"
+          },
+          {
+            "name": "Cheryl Chan",
+            "firstName": "Cheryl",
+            "lastName": "Chan",
+            "job": "Head of Strategy and Growth",
+            "company": "Kamino",
+            "role": "speaker"
+          },
+          {
+            "name": "Seraphim",
+            "firstName": "Seraphim",
+            "lastName": "",
+            "job": "Special Situations",
+            "company": "Solana Foundation",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "13c5db7760838915": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "13c5db7760838915",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T14:00",
+        "end": "2026-10-07T14:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 40,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "The Future of Finance, Built in America",
+        "speakers": [
+          {
+            "name": "Eric Trump",
+            "firstName": "Eric",
+            "lastName": "Trump",
+            "job": "Co-Founder",
+            "company": "World Liberty Financial",
+            "role": "speaker"
+          },
+          {
+            "name": "Zach Witkoff",
+            "firstName": "Zach",
+            "lastName": "Witkoff",
+            "job": "CEO",
+            "company": "World Liberty Financial",
+            "role": "speaker"
+          },
+          {
+            "name": "David Wachsman",
+            "firstName": "David",
+            "lastName": "Wachsman",
+            "job": "CEO",
+            "company": "Wachsman",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "0ea0d77b510376f1": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "0ea0d77b510376f1",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T14:15",
+        "end": "2026-10-07T14:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Compliant Privacy in Public Blockchains: The Missing Primitive",
+        "speakers": [
+          {
+            "name": "Michal Pospieszalski",
+            "firstName": "Michal",
+            "lastName": "Pospieszalski",
+            "job": "CEO",
+            "company": "AmericanFortress",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "373f07063cc0820c": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "373f07063cc0820c",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T14:30",
+        "end": "2026-10-07T14:50",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "BingX Labs Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Zach Pandl",
+            "firstName": "Zach",
+            "lastName": "Pandl",
+            "job": "Head of Research",
+            "company": "Grayscale",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "42f53e78e7f74dc2": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "42f53e78e7f74dc2",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T14:30",
+        "end": "2026-10-07T14:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Personal Data Asset Network for the AI Era",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "3a87f367f141be81": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "3a87f367f141be81",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T14:30",
+        "end": "2026-10-07T14:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "The Half-Life of Ideas: Why We Back Founders, Not Narratives",
+        "speakers": [
+          {
+            "name": "Will Robinson",
+            "firstName": "Will",
+            "lastName": "Robinson",
+            "job": "Partner",
+            "company": "Alliance",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "7d0e2d8abf5a0560": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "7d0e2d8abf5a0560",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T14:40",
+        "end": "2026-10-07T15:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "OKX Main Stage",
+        "type": "Keynote",
+        "title": "When Crypto Meets Agents",
+        "speakers": [
+          {
+            "name": "Haseeb Qureshi",
+            "firstName": "Haseeb",
+            "lastName": "Qureshi",
+            "job": "Managing Partner",
+            "company": "Dragonfly",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "3d87dc3a69eb742c": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "3d87dc3a69eb742c",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T14:45",
+        "end": "2026-10-07T15:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Stablecoin Powered Neobanks: Ethena and Etherfi",
+        "speakers": [
+          {
+            "name": "Guy Young",
+            "firstName": "Guy",
+            "lastName": "Young",
+            "job": "CEO",
+            "company": "Ethena Labs",
+            "role": "speaker"
+          },
+          {
+            "name": "Mike Silagadze",
+            "firstName": "Mike",
+            "lastName": "Silagadze",
+            "job": "Founder and CEO",
+            "company": "ether.fi",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "338e9b5da820b63b": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "338e9b5da820b63b",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T14:50",
+        "end": "2026-10-07T15:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "From the White House to Wall Street: What’s Next for Crypto?",
+        "speakers": [
+          {
+            "name": "Jake Chervinsky",
+            "firstName": "Jake",
+            "lastName": "Chervinsky",
+            "job": "CEO",
+            "company": "Hyperliquid Policy Center",
+            "role": "speaker"
+          },
+          {
+            "name": "Arjun Sethi",
+            "firstName": "Arjun",
+            "lastName": "Sethi",
+            "job": "Co-CEO",
+            "company": "Kraken",
+            "role": "speaker"
+          },
+          {
+            "name": "Charles Cascarilla",
+            "firstName": "Charles",
+            "lastName": "Cascarilla",
+            "job": "Co-Founder and CEO",
+            "company": "Paxos",
+            "role": "speaker"
+          },
+          {
+            "name": "Scott Lawin",
+            "firstName": "Scott",
+            "lastName": "Lawin",
+            "job": "President",
+            "company": "Pantera Capital",
+            "role": "speaker"
+          },
+          {
+            "name": "Jacquelyn Melinek",
+            "firstName": "Jacquelyn",
+            "lastName": "Melinek",
+            "job": "Founder and CEO",
+            "company": "Stratamedia",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "f912c540c3b5c176": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "f912c540c3b5c176",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T15:00",
+        "end": "2026-10-07T15:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Quality Is the New Alpha in Crypto",
+        "speakers": [
+          {
+            "name": "Jamie Coutts",
+            "firstName": "Jamie",
+            "lastName": "Coutts",
+            "job": "Chief Crypto Analyst",
+            "company": "Real Vision",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "feddfcb42703ea2a": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "feddfcb42703ea2a",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T15:00",
+        "end": "2026-10-07T15:35",
+        "timezone": "Asia/Singapore",
+        "durationMin": 35,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "The Zcash Moment",
+        "speakers": [
+          {
+            "name": "Balaji Srinivasan",
+            "firstName": "Balaji",
+            "lastName": "Srinivasan",
+            "job": "Founder",
+            "company": "The Network State",
+            "role": "speaker"
+          },
+          {
+            "name": "Tyler Winklevoss",
+            "firstName": "Tyler",
+            "lastName": "Winklevoss",
+            "job": "Co-Founder and CEO",
+            "company": "Gemini",
+            "role": "speaker"
+          },
+          {
+            "name": "Cameron Winklevoss",
+            "firstName": "Cameron",
+            "lastName": "Winklevoss",
+            "job": "Co-Founder and President",
+            "company": "Gemini",
+            "role": "speaker"
+          },
+          {
+            "name": "Mert",
+            "firstName": "Mert",
+            "lastName": "",
+            "job": "CEO",
+            "company": "Helius",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "66d7957cb5b11bae": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "66d7957cb5b11bae",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T15:15",
+        "end": "2026-10-07T15:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Crypto’s First Real Bull Market: Here’s How High We Go.",
+        "speakers": [
+          {
+            "name": "Ran Neuner",
+            "firstName": "Ran",
+            "lastName": "Neuner",
+            "job": "Founder",
+            "company": "Crypto Banter",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "b533e9c73939ee4d": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "b533e9c73939ee4d",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T15:20",
+        "end": "2026-10-07T15:50",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "The Great Reallocation: Where Crypto Capital Goes Next",
+        "speakers": [
+          {
+            "name": "Richard Galvin",
+            "firstName": "Richard",
+            "lastName": "Galvin",
+            "job": "Executive Chairman and CIO",
+            "company": "DACM",
+            "role": "speaker"
+          },
+          {
+            "name": "Dan Tapiero",
+            "firstName": "Dan",
+            "lastName": "Tapiero",
+            "job": "Founder, CEO, and CIO",
+            "company": "50T Funds",
+            "role": "speaker"
+          },
+          {
+            "name": "Shiliang Tang",
+            "firstName": "Shiliang",
+            "lastName": "Tang",
+            "job": "CEO",
+            "company": "Monarq Asset Management",
+            "role": "speaker"
+          },
+          {
+            "name": "Chris Rayner-Cook",
+            "firstName": "Chris",
+            "lastName": "Rayner-Cook",
+            "job": "CIO",
+            "company": "Brevan Howard",
+            "role": "speaker"
+          },
+          {
+            "name": "Jessica Walker",
+            "firstName": "Jessica",
+            "lastName": "Walker",
+            "job": "Global Media and Content Lead",
+            "company": "Binance",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "ef1f86c1f63f434f": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "ef1f86c1f63f434f",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T15:30",
+        "end": "2026-10-07T16:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "MEXC Stage",
+        "type": "Panel",
+        "title": "Crypto’s Identity Crisis: What Are We Actually Betting On?",
+        "speakers": [
+          {
+            "name": "Kelvin Koh",
+            "firstName": "Kelvin",
+            "lastName": "Koh",
+            "job": "Co-Founder and Partner",
+            "company": "Spartan Group",
+            "role": "speaker"
+          },
+          {
+            "name": "Santiago Roel Santos",
+            "firstName": "Santiago",
+            "lastName": "Roel Santos",
+            "job": "Founder and CEO",
+            "company": "Inversion",
+            "role": "speaker"
+          },
+          {
+            "name": "Rajiv Patel-O'Connor",
+            "firstName": "Rajiv",
+            "lastName": "Patel-O'Connor",
+            "job": "General Partner",
+            "company": "Framework Ventures",
+            "role": "speaker"
+          },
+          {
+            "name": "Larry Cermak",
+            "firstName": "Larry",
+            "lastName": "Cermak",
+            "job": "President",
+            "company": "The Block",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "7e59e9406b0ced4e": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "7e59e9406b0ced4e",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T15:35",
+        "end": "2026-10-07T16:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 25,
+        "stage": "OKX Main Stage",
+        "type": "Fireside",
+        "title": "Lando Norris × OKX: The Drive to Win",
+        "speakers": [
+          {
+            "name": "Lando Norris",
+            "firstName": "Lando",
+            "lastName": "Norris",
+            "job": "Driver",
+            "company": "McLaren Mastercard Formula 1 Team",
+            "role": "speaker"
+          },
+          {
+            "name": "Haider Rafique",
+            "firstName": "Haider",
+            "lastName": "Rafique",
+            "job": "Managing Partner and CMO",
+            "company": "OKX",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "44118b11f3f543ab": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "44118b11f3f543ab",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T15:45",
+        "end": "2026-10-07T16:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "From Protocols to Chips: Building the Full Stack for Decentralized AI",
+        "speakers": [
+          {
+            "name": "Daniil Liberman",
+            "firstName": "Daniil",
+            "lastName": "Liberman",
+            "job": "Co-Creator",
+            "company": "Gonka",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "1dc822dbef6c8519": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "1dc822dbef6c8519",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T15:50",
+        "end": "2026-10-07T16:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "Tokenized Markets: How Institutional Finance Moves Onchain",
+        "speakers": [
+          {
+            "name": "Andrew McCormick",
+            "firstName": "Andrew",
+            "lastName": "McCormick",
+            "job": "Head of Institutional and Market Dev",
+            "company": "Chainlink",
+            "role": "speaker"
+          },
+          {
+            "name": "Michael Higgins",
+            "firstName": "Michael",
+            "lastName": "Higgins",
+            "job": "International CEO",
+            "company": "Ripple Prime",
+            "role": "speaker"
+          },
+          {
+            "name": "Joshua Lim",
+            "firstName": "Joshua",
+            "lastName": "Lim",
+            "job": "Global Head of Markets",
+            "company": "FalconX",
+            "role": "speaker"
+          },
+          {
+            "name": "Roland Chai",
+            "firstName": "Roland",
+            "lastName": "Chai",
+            "job": "EVP and Head of Digital Liquidity Networks",
+            "company": "NASDAQ",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "a8a4465bf0985be5": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "a8a4465bf0985be5",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T16:00",
+        "end": "2026-10-07T16:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Master the Trenches: Price Impact, VWAP, and uPnL",
+        "speakers": [
+          {
+            "name": "Dennis Qian",
+            "firstName": "Dennis",
+            "lastName": "Qian",
+            "job": "Co-Founder",
+            "company": "Definitive Finance",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "d557ccbbfafd346d": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "d557ccbbfafd346d",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T16:00",
+        "end": "2026-10-07T16:35",
+        "timezone": "Asia/Singapore",
+        "durationMin": 35,
+        "stage": "OKX Main Stage",
+        "type": "Fireside",
+        "title": "Raoul Pal & Zoltan Pozsar: The New Money Order (Chatham House Rules)",
+        "speakers": [
+          {
+            "name": "Zoltan Pozsar",
+            "firstName": "Zoltan",
+            "lastName": "Pozsar",
+            "job": "Founder and CEO",
+            "company": "Ex Uno Plures",
+            "role": "speaker"
+          },
+          {
+            "name": "Raoul Pal",
+            "firstName": "Raoul",
+            "lastName": "Pal",
+            "job": "Co-Founder and CEO",
+            "company": "Real Vision",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "c057a9acd26c0876": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "c057a9acd26c0876",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T16:15",
+        "end": "2026-10-07T16:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "The Center of Gravity Has Moved: Asia’s AI & Crypto Decade",
+        "speakers": [
+          {
+            "name": "Magnus Grimeland",
+            "firstName": "Magnus",
+            "lastName": "Grimeland",
+            "job": "Founder and CEO",
+            "company": "Antler",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "2e6fd25a3cf284f4": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "2e6fd25a3cf284f4",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T16:15",
+        "end": "2026-10-07T16:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "2026 is the Year that Fundamentals Outperformed",
+        "speakers": [
+          {
+            "name": "Lasse Clausen",
+            "firstName": "Lasse",
+            "lastName": "Clausen",
+            "job": "Founding Partner",
+            "company": "1kx",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "4040a0f110102a23": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "4040a0f110102a23",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T16:20",
+        "end": "2026-10-07T16:50",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "Quantum: An Existential Threat to Crypto?",
+        "speakers": [
+          {
+            "name": "Alex Pruden",
+            "firstName": "Alex",
+            "lastName": "Pruden",
+            "job": "Co-Founder and CEO",
+            "company": "Project Eleven",
+            "role": "speaker"
+          },
+          {
+            "name": "Eli Ben-Sasson",
+            "firstName": "Eli",
+            "lastName": "Ben-Sasson",
+            "job": "Co-Founder and CEO",
+            "company": "StarkWare",
+            "role": "speaker"
+          },
+          {
+            "name": "Arthur Breitman",
+            "firstName": "Arthur",
+            "lastName": "Breitman",
+            "job": "Co-Founder",
+            "company": "Tezos",
+            "role": "speaker"
+          },
+          {
+            "name": "Ren CF",
+            "firstName": "Ren",
+            "lastName": "CF",
+            "job": "General Partner",
+            "company": "Electric Capital",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "ee886b934ecbd629": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "ee886b934ecbd629",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T16:30",
+        "end": "2026-10-07T16:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "When Games Become Reality: The Return of the Metaverse",
+        "speakers": [
+          {
+            "name": "Yat Siu",
+            "firstName": "Yat",
+            "lastName": "Siu",
+            "job": "Co-Founder and Executive Chairman",
+            "company": "Animoca Brands",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "46526839f74561a7": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "46526839f74561a7",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T16:30",
+        "end": "2026-10-07T16:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Everyone Is an Asset Allocator Now",
+        "speakers": [
+          {
+            "name": "Kash Dhanda",
+            "firstName": "Kash",
+            "lastName": "Dhanda",
+            "job": "COO",
+            "company": "Jupiter",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "183e415fcbdb1cad": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "183e415fcbdb1cad",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T16:35",
+        "end": "2026-10-07T17:10",
+        "timezone": "Asia/Singapore",
+        "durationMin": 35,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "The Agent Economy: Why AI Needs Crypto",
+        "speakers": [
+          {
+            "name": "Illia Polosukhin",
+            "firstName": "Illia",
+            "lastName": "Polosukhin",
+            "job": "Co-Founder",
+            "company": "NEAR Protocol",
+            "role": "speaker"
+          },
+          {
+            "name": "Emad Mostaque",
+            "firstName": "Emad",
+            "lastName": "Mostaque",
+            "job": "Founder and CEO",
+            "company": "Intelligent Internet",
+            "role": "speaker"
+          },
+          {
+            "name": "Jesse Pollak",
+            "firstName": "Jesse",
+            "lastName": "Pollak",
+            "job": "Head of Base",
+            "company": "Base",
+            "role": "speaker"
+          },
+          {
+            "name": "Tarun Chitra",
+            "firstName": "Tarun",
+            "lastName": "Chitra",
+            "job": "Co-Founder and CEO",
+            "company": "Gauntlet",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "08bafddd17683fab": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "08bafddd17683fab",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T16:45",
+        "end": "2026-10-07T17:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "JF Rochet",
+            "firstName": "JF",
+            "lastName": "Rochet",
+            "job": "EVP Consumer Services",
+            "company": "Ledger",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "205c258923e0fae3": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "205c258923e0fae3",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T16:50",
+        "end": "2026-10-07T17:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 40,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "Steady Lads Live",
+        "speakers": [
+          {
+            "name": "Taiki Maeda",
+            "firstName": "Taiki",
+            "lastName": "Maeda",
+            "job": "Humble Farmer",
+            "company": "Humble Farmer Army",
+            "role": "speaker"
+          },
+          {
+            "name": "Justin Bram",
+            "firstName": "Justin",
+            "lastName": "Bram",
+            "job": "Investor",
+            "company": "",
+            "role": "speaker"
+          },
+          {
+            "name": "Dim Selk",
+            "firstName": "Dim",
+            "lastName": "Selk",
+            "job": "Investments",
+            "company": "Selini Capital",
+            "role": "speaker"
+          },
+          {
+            "name": "Jordi Alexander",
+            "firstName": "Jordi",
+            "lastName": "Alexander",
+            "job": "Founder",
+            "company": "Selini Capital",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "046ac689cdab0c4f": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "046ac689cdab0c4f",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:00",
+        "end": "2026-10-07T17:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "What Is Next for Stablecoins",
+        "speakers": [
+          {
+            "name": "Luca Prosperi",
+            "firstName": "Luca",
+            "lastName": "Prosperi",
+            "job": "Co-Founder and CEO",
+            "company": "M0",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "847eb26147b8ec77": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "847eb26147b8ec77",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:00",
+        "end": "2026-10-07T17:05",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "Welcome to the NEXUS Startup Competition First Round",
+        "speakers": [
+          {
+            "name": "Tom Schmidt",
+            "firstName": "Tom",
+            "lastName": "Schmidt",
+            "job": "General Partner",
+            "company": "Dragonfly",
+            "role": "speaker"
+          },
+          {
+            "name": "Akshat Vaidya",
+            "firstName": "Akshat",
+            "lastName": "Vaidya",
+            "job": "Co-Founder and Managing Partner",
+            "company": "Maelstrom",
+            "role": "speaker"
+          },
+          {
+            "name": "Spencer Applebaum",
+            "firstName": "Spencer",
+            "lastName": "Applebaum",
+            "job": "GP and Co-Head of Venture",
+            "company": "Multicoin Capital",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "3cd032a525adb7ef": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "3cd032a525adb7ef",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:05",
+        "end": "2026-10-07T17:10",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS Startup Competition Pitch #1 - Bermuda Bay",
+        "speakers": [
+          {
+            "name": "Jan Philipp Fritsche",
+            "firstName": "Jan Philipp",
+            "lastName": "Fritsche",
+            "job": "Co-Founder",
+            "company": "Bermuda",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "77f8ff0acbded69c": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "77f8ff0acbded69c",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:10",
+        "end": "2026-10-07T17:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS Startup Competition Pitch #2 - Helix",
+        "speakers": [
+          {
+            "name": "Jitendra Singh Jaitawat",
+            "firstName": "Jitendra Singh",
+            "lastName": "Jaitawat",
+            "job": "Co-Founder and CEO",
+            "company": "Helix",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "73913d224e23fcd4": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "73913d224e23fcd4",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:10",
+        "end": "2026-10-07T17:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "Memecoins: Dead or Just Getting Started?",
+        "speakers": [
+          {
+            "name": "Murad Mahmudov",
+            "firstName": "Murad",
+            "lastName": "Mahmudov",
+            "job": "Investor",
+            "company": "",
+            "role": "speaker"
+          },
+          {
+            "name": "Ansem ​",
+            "firstName": "Ansem",
+            "lastName": "​",
+            "job": "Co-Founder",
+            "company": "Bullpen",
+            "role": "speaker"
+          },
+          {
+            "name": "Paul Erlanger",
+            "firstName": "Paul",
+            "lastName": "Erlanger",
+            "job": "CEO",
+            "company": "fomo",
+            "role": "speaker"
+          },
+          {
+            "name": "Ran Neuner",
+            "firstName": "Ran",
+            "lastName": "Neuner",
+            "job": "Founder",
+            "company": "Crypto Banter",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "d48d35b7e9a67351": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "d48d35b7e9a67351",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:15",
+        "end": "2026-10-07T17:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "The Distribution Problem: Tokenization's Next Bottleneck",
+        "speakers": [
+          {
+            "name": "Jim Hiltner",
+            "firstName": "Jim",
+            "lastName": "Hiltner",
+            "job": "Co-Founder",
+            "company": "Superstate",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "e74f73bfdbb2af09": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "e74f73bfdbb2af09",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:15",
+        "end": "2026-10-07T17:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS Startup Competition Pitch #3 - Crebit Pay",
+        "speakers": [
+          {
+            "name": "Jensen Coonradt",
+            "firstName": "Jensen",
+            "lastName": "Coonradt",
+            "job": "CEO",
+            "company": "Crebit Pay",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "d44705e57d947a07": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "d44705e57d947a07",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:20",
+        "end": "2026-10-07T17:25",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS Startup Competition Pitch #4 - The Risk Protocol",
+        "speakers": [
+          {
+            "name": "Karamvir Gosal",
+            "firstName": "Karamvir",
+            "lastName": "Gosal",
+            "job": "CEO",
+            "company": "The Risk Protocol",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "f82ed3f33752cd65": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "f82ed3f33752cd65",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:25",
+        "end": "2026-10-07T17:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS Startup Competition Pitch #5 - CRSHMARKET",
+        "speakers": [
+          {
+            "name": "Evan Rama",
+            "firstName": "Evan",
+            "lastName": "Rama",
+            "job": "Co-Founder and CEO",
+            "company": "CRSHMARKET",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "3fdcab128abdb144": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "3fdcab128abdb144",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:30",
+        "end": "2026-10-07T17:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Miguel Morel",
+            "firstName": "Miguel",
+            "lastName": "Morel",
+            "job": "CEO",
+            "company": "Arkham",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "3060a6d7aa8e8355": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "3060a6d7aa8e8355",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:30",
+        "end": "2026-10-07T17:35",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS Startup Competition Pitch #6 - Liquida",
+        "speakers": [
+          {
+            "name": "Dewi Perrin",
+            "firstName": "Dewi",
+            "lastName": "Perrin",
+            "job": "Co-Founder",
+            "company": "Liquida",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "300b94ba2b7e1b08": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "300b94ba2b7e1b08",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:35",
+        "end": "2026-10-07T17:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS Startup Competition Pitch #7 - Gyld Finance",
+        "speakers": [
+          {
+            "name": "Ruchir Gupta",
+            "firstName": "Ruchir",
+            "lastName": "Gupta",
+            "job": "Co-Founder",
+            "company": "Gyld Finance",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "acda800aaecaeab8": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "acda800aaecaeab8",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:40",
+        "end": "2026-10-07T17:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS Startup Competition Pitch #8 - human.tech",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "0c1a317aacf1ffb8": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "0c1a317aacf1ffb8",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:40",
+        "end": "2026-10-07T18:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "OKX Main Stage",
+        "type": "Fireside",
+        "title": "One Gate, Everything Money: For a World That Never Stops",
+        "speakers": [
+          {
+            "name": "Max Verstappen",
+            "firstName": "Max",
+            "lastName": "Verstappen",
+            "job": "4 x Formula One World Champion",
+            "company": "Oracle Red Bull Racing",
+            "role": "speaker"
+          },
+          {
+            "name": "Lin Han",
+            "firstName": "Lin",
+            "lastName": "Han",
+            "job": "Founder and CEO",
+            "company": "Gate",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "b55647944c59096a": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "b55647944c59096a",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:45",
+        "end": "2026-10-07T17:50",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS Startup Competition Pitch #9 - Surge Credit",
+        "speakers": [
+          {
+            "name": "Michael Borglin",
+            "firstName": "Michael",
+            "lastName": "Borglin",
+            "job": "CEO",
+            "company": "Surge Credit",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "9850ca6feb9d6e8d": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "9850ca6feb9d6e8d",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:50",
+        "end": "2026-10-07T17:55",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS Startup Competition Pitch #10 - Ask Gina",
+        "speakers": [
+          {
+            "name": "Sid Shekhar",
+            "firstName": "Sid",
+            "lastName": "Shekhar",
+            "job": "CEO",
+            "company": "Ask Gina",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "99425f8381ade75d": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "99425f8381ade75d",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T17:55",
+        "end": "2026-10-07T18:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS First Round Summary",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "f11fb2f18698425f": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "f11fb2f18698425f",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-07",
+        "start": "2026-10-07T18:00",
+        "end": "2026-10-07T19:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 90,
+        "stage": null,
+        "type": "General",
+        "title": "Networking Drinks",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "b7dc61727fcf2920": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "b7dc61727fcf2920",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T07:30",
+        "end": "2026-10-08T09:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 90,
+        "stage": null,
+        "type": "General",
+        "title": "Continental Breakfast",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "1e011278c2c6ca06": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "1e011278c2c6ca06",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T09:00",
+        "end": "2026-10-08T09:10",
+        "timezone": "Asia/Singapore",
+        "durationMin": 10,
+        "stage": "OKX Main Stage",
+        "type": "Intro",
+        "title": "TOKEN2049 Day 2",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "a1bde7c76b1368c1": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "a1bde7c76b1368c1",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T09:10",
+        "end": "2026-10-08T09:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "The New Institutional Market: Tokenized Assets. Global Liquidity. Onchain Settlement",
+        "speakers": [
+          {
+            "name": "Jenny Johnson",
+            "firstName": "Jenny",
+            "lastName": "Johnson",
+            "job": "CEO",
+            "company": "Franklin Templeton",
+            "role": "speaker"
+          },
+          {
+            "name": "Richard Teng",
+            "firstName": "Richard",
+            "lastName": "Teng",
+            "job": "Co-CEO",
+            "company": "Binance",
+            "role": "speaker"
+          },
+          {
+            "name": "Yuval Rooz",
+            "firstName": "Yuval",
+            "lastName": "Rooz",
+            "job": "Co-Founder and CEO",
+            "company": "Canton",
+            "role": "speaker"
+          },
+          {
+            "name": "Michael Ippolito",
+            "firstName": "Michael",
+            "lastName": "Ippolito",
+            "job": "Co-Founder",
+            "company": "Blockworks",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "0a22323a53e44d74": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "0a22323a53e44d74",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T09:15",
+        "end": "2026-10-08T09:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "MEXC Stage",
+        "type": "Panel",
+        "title": "The $2T Question: How To Make Tokenized Assets Productive?",
+        "speakers": [
+          {
+            "name": "Kristen Mierzwa",
+            "firstName": "Kristen",
+            "lastName": "Mierzwa",
+            "job": "Head of Digital Assets",
+            "company": "FTSE Russell",
+            "role": "speaker"
+          },
+          {
+            "name": "Vinh Tran",
+            "firstName": "Vinh",
+            "lastName": "Tran",
+            "job": "Associate Director, Digital Assets",
+            "company": "WisdomTree",
+            "role": "speaker"
+          },
+          {
+            "name": "Marcin Kazmierczak",
+            "firstName": "Marcin",
+            "lastName": "Kazmierczak",
+            "job": "Co-Founder and COO",
+            "company": "RedStone / Credora",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "ea04508b164a6729": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "ea04508b164a6729",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T09:40",
+        "end": "2026-10-08T10:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "OKX Main Stage",
+        "type": "Keynote",
+        "title": "Midnight City",
+        "speakers": [
+          {
+            "name": "Charles Hoskinson",
+            "firstName": "Charles",
+            "lastName": "Hoskinson",
+            "job": "Founder and CEO",
+            "company": "Input Output Group",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "38122d1236804104": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "38122d1236804104",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T09:45",
+        "end": "2026-10-08T10:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "The Path to Scaling Zcash",
+        "speakers": [
+          {
+            "name": "Dev Ojha",
+            "firstName": "Dev",
+            "lastName": "Ojha",
+            "job": "Founder",
+            "company": "Valargroup / Zcash",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "e769104679c61190": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "e769104679c61190",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:00",
+        "end": "2026-10-08T10:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 40,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "The Machine Native Economy: Do Digital Assets Benefit from AI?",
+        "speakers": [
+          {
+            "name": "Dovey Wan",
+            "firstName": "Dovey",
+            "lastName": "Wan",
+            "job": "Founder",
+            "company": "Primitive Ventures",
+            "role": "speaker"
+          },
+          {
+            "name": "Alexander Good",
+            "firstName": "Alexander",
+            "lastName": "Good",
+            "job": "Founder",
+            "company": "Post Fiat",
+            "role": "speaker"
+          },
+          {
+            "name": "David Choi",
+            "firstName": "David",
+            "lastName": "Choi",
+            "job": "Co-Founder",
+            "company": "USD.AI",
+            "role": "speaker"
+          },
+          {
+            "name": "Jordi Alexander",
+            "firstName": "Jordi",
+            "lastName": "Alexander",
+            "job": "Founder",
+            "company": "Selini Capital",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "8b4e567b32778919": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "8b4e567b32778919",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:00",
+        "end": "2026-10-08T10:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "YQ Jia",
+            "firstName": "YQ",
+            "lastName": "Jia",
+            "job": "Founder",
+            "company": "AltLayer",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "65218c0f11e52081": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "65218c0f11e52081",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:00",
+        "end": "2026-10-08T10:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "Institutional Stage",
+        "type": "Fireside",
+        "title": "The New Macro Order: Liquidity, Capital and Digital Assets",
+        "speakers": [
+          {
+            "name": "Zoltan Pozsar",
+            "firstName": "Zoltan",
+            "lastName": "Pozsar",
+            "job": "Founder and CEO",
+            "company": "Ex Uno Plures",
+            "role": "speaker"
+          },
+          {
+            "name": "Timothy Moe",
+            "firstName": "Timothy",
+            "lastName": "Moe",
+            "job": "Chief Asia Pacific Equity Strategist",
+            "company": "Goldman Sachs",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "d09e8e832daf5e5d": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "d09e8e832daf5e5d",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:00",
+        "end": "2026-10-08T10:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "No Banks: Why AI Makes Zcash Inevitable",
+        "speakers": [
+          {
+            "name": "Josh Swihart",
+            "firstName": "Josh",
+            "lastName": "Swihart",
+            "job": "Founder and CEO",
+            "company": "ZODL",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "1d143d01120a7bfb": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "1d143d01120a7bfb",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:00",
+        "end": "2026-10-08T10:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 40,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "Regulation: Finding Clarity Across Borders",
+        "speakers": [
+          {
+            "name": "Brian Quintenz",
+            "firstName": "Brian",
+            "lastName": "Quintenz",
+            "job": "Director",
+            "company": "SUI Group Holdings",
+            "role": "speaker"
+          },
+          {
+            "name": "Jake Chervinsky",
+            "firstName": "Jake",
+            "lastName": "Chervinsky",
+            "job": "CEO",
+            "company": "Hyperliquid Policy Center",
+            "role": "speaker"
+          },
+          {
+            "name": "Deepa Raja Carbon",
+            "firstName": "Deepa",
+            "lastName": "Raja Carbon",
+            "job": "Vice Chair and Managing Director",
+            "company": "VARA",
+            "role": "speaker"
+          },
+          {
+            "name": "Arjun Sethi",
+            "firstName": "Arjun",
+            "lastName": "Sethi",
+            "job": "Co-CEO",
+            "company": "Payward / Kraken",
+            "role": "speaker"
+          },
+          {
+            "name": "Henri Arslanian",
+            "firstName": "Henri",
+            "lastName": "Arslanian",
+            "job": "Co-Founder and Managing Partner",
+            "company": "Nine Blocks Capital Management",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "97228a0b9658b859": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "97228a0b9658b859",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:15",
+        "end": "2026-10-08T10:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Bitcoin's Quantum Readiness: From Exposure to Upgrade",
+        "speakers": [
+          {
+            "name": "Ren CF",
+            "firstName": "Ren",
+            "lastName": "CF",
+            "job": "General Partner",
+            "company": "Electric Capital",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "6eb6ac8da4d01a8f": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "6eb6ac8da4d01a8f",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:15",
+        "end": "2026-10-08T10:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Will Quantum End \"Your Keys, Your Coins\"?",
+        "speakers": [
+          {
+            "name": "Eli Ben-Sasson",
+            "firstName": "Eli",
+            "lastName": "Ben-Sasson",
+            "job": "Co-Founder and CEO",
+            "company": "StarkWare",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "c88a78832bdcbe05": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "c88a78832bdcbe05",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:20",
+        "end": "2026-10-08T10:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "Institutional Stage",
+        "type": "Panel",
+        "title": "The Next Wave of Institutional Capital",
+        "speakers": [
+          {
+            "name": "Tom Lee",
+            "firstName": "Tom",
+            "lastName": "Lee",
+            "job": "CIO and Portfolio Manager / Chairman",
+            "company": "Fundstrat / BitMine",
+            "role": "speaker"
+          },
+          {
+            "name": "Jenny Johnson",
+            "firstName": "Jenny",
+            "lastName": "Johnson",
+            "job": "CEO",
+            "company": "Franklin Templeton",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "ce7bf0c683dacc00": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "ce7bf0c683dacc00",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:30",
+        "end": "2026-10-08T10:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "The Great Unbundling of Finance",
+        "speakers": [
+          {
+            "name": "Sam Kazemian",
+            "firstName": "Sam",
+            "lastName": "Kazemian",
+            "job": "Founder and CEO",
+            "company": "Frax",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "d2348fdba254fcf5": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "d2348fdba254fcf5",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:40",
+        "end": "2026-10-08T11:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "BingX Labs Stage",
+        "type": "Keynote",
+        "title": "The Machine Economy Won't Wait",
+        "speakers": [
+          {
+            "name": "Adeniyi Abiodun",
+            "firstName": "Adeniyi",
+            "lastName": "Abiodun",
+            "job": "Co-Founder and CPO",
+            "company": "Mysten Labs",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "37bcb7881c9171d2": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "37bcb7881c9171d2",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:40",
+        "end": "2026-10-08T11:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "Institutional Stage",
+        "type": "Panel",
+        "title": "Fireside Chat: Winklevoss",
+        "speakers": [
+          {
+            "name": "Tyler Winklevoss",
+            "firstName": "Tyler",
+            "lastName": "Winklevoss",
+            "job": "Co-Founder and CEO",
+            "company": "Gemini",
+            "role": "speaker"
+          },
+          {
+            "name": "Cameron Winklevoss",
+            "firstName": "Cameron",
+            "lastName": "Winklevoss",
+            "job": "Co-Founder and President",
+            "company": "Gemini",
+            "role": "speaker"
+          },
+          {
+            "name": "Haslinda Amin",
+            "firstName": "Haslinda",
+            "lastName": "Amin",
+            "job": "Anchor and Editor-at-Large",
+            "company": "Bloomberg",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "7b5dc722bbe66f2c": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "7b5dc722bbe66f2c",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:40",
+        "end": "2026-10-08T11:10",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "Crypto: The End of the Beginning",
+        "speakers": [
+          {
+            "name": "Kyle Samani",
+            "firstName": "Kyle",
+            "lastName": "Samani",
+            "job": "Chairman",
+            "company": "Forward Industries",
+            "role": "speaker"
+          },
+          {
+            "name": "Haseeb Qureshi",
+            "firstName": "Haseeb",
+            "lastName": "Qureshi",
+            "job": "Managing Partner",
+            "company": "Dragonfly",
+            "role": "speaker"
+          },
+          {
+            "name": "Santiago Roel Santos",
+            "firstName": "Santiago",
+            "lastName": "Roel Santos",
+            "job": "Founder and CEO",
+            "company": "Inversion",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "ac2c73b9da62ff83": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "ac2c73b9da62ff83",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:45",
+        "end": "2026-10-08T11:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Fireside",
+        "title": "Fireside Chat: Tristan Thompson",
+        "speakers": [
+          {
+            "name": "Tristan Thompson",
+            "firstName": "Tristan",
+            "lastName": "Thompson",
+            "job": "NBA Champion",
+            "company": "",
+            "role": "speaker"
+          },
+          {
+            "name": "Amanda Cassatt",
+            "firstName": "Amanda",
+            "lastName": "Cassatt",
+            "job": "Founder and CEO",
+            "company": "Serotonin",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "228d79c0070c1912": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "228d79c0070c1912",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T10:45",
+        "end": "2026-10-08T11:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "No More Impermanent Loss: Research Turned Into Real Strategy",
+        "speakers": [
+          {
+            "name": "Michael Egorov",
+            "firstName": "Michael",
+            "lastName": "Egorov",
+            "job": "Founder",
+            "company": "Curve Finance / Yield Basis",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "00d80f4e30f1aa6c": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "00d80f4e30f1aa6c",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:00",
+        "end": "2026-10-08T11:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "BingX Labs Stage",
+        "type": "Fireside",
+        "title": "Leading the Convergence of TradFi and DeFi",
+        "speakers": [
+          {
+            "name": "Stani Kulechov",
+            "firstName": "Stani",
+            "lastName": "Kulechov",
+            "job": "Founder and CEO",
+            "company": "Aave Labs",
+            "role": "speaker"
+          },
+          {
+            "name": "Andy Cavanaugh",
+            "firstName": "Andy",
+            "lastName": "Cavanaugh",
+            "job": "Co-Founder",
+            "company": "The Rollup",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "e67457e5458abe03": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "e67457e5458abe03",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:00",
+        "end": "2026-10-08T11:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Asia’s Next Export: Its Capital Markets",
+        "speakers": [
+          {
+            "name": "Saeed Badreg",
+            "firstName": "Saeed",
+            "lastName": "Badreg",
+            "job": "CEO",
+            "company": "Sunrise",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "4a1e20918b194beb": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "4a1e20918b194beb",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:00",
+        "end": "2026-10-08T11:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "Institutional Stage",
+        "type": "Panel",
+        "title": "Crypto Without Clarity: What Happens Next?",
+        "speakers": [
+          {
+            "name": "Brian Quintenz",
+            "firstName": "Brian",
+            "lastName": "Quintenz",
+            "job": "Director",
+            "company": "SUI Group Holdings",
+            "role": "speaker"
+          },
+          {
+            "name": "Mike Belshe",
+            "firstName": "Mike",
+            "lastName": "Belshe",
+            "job": "Co-Founder and CEO",
+            "company": "Bitgo",
+            "role": "speaker"
+          },
+          {
+            "name": "Jacquelyn Melinek",
+            "firstName": "Jacquelyn",
+            "lastName": "Melinek",
+            "job": "Founder and CEO",
+            "company": "Stratamedia",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "4d93649df2d71b4b": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "4d93649df2d71b4b",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:00",
+        "end": "2026-10-08T11:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "The Crowdsourced Quant Competition Running a Market-Neutral Stat Arb Vault",
+        "speakers": [
+          {
+            "name": "Leigh Drogen",
+            "firstName": "Leigh",
+            "lastName": "Drogen",
+            "job": "GP and CIO",
+            "company": "Starkiller Capital",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "4d90d9d4eb37489e": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "4d90d9d4eb37489e",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:10",
+        "end": "2026-10-08T11:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "Stablecoins: The Payments Industry, Rebuilt",
+        "speakers": [
+          {
+            "name": "May Zabaneh",
+            "firstName": "May",
+            "lastName": "Zabaneh",
+            "job": "SVP",
+            "company": "Paypal",
+            "role": "speaker"
+          },
+          {
+            "name": "Ivan Soto-Wright",
+            "firstName": "Ivan",
+            "lastName": "Soto-Wright",
+            "job": "Founder and CEO",
+            "company": "Moonpay",
+            "role": "speaker"
+          },
+          {
+            "name": "Farooq Malik",
+            "firstName": "Farooq",
+            "lastName": "Malik",
+            "job": "Co-Founder and CEO",
+            "company": "Rain",
+            "role": "speaker"
+          },
+          {
+            "name": "Frank Chaparro",
+            "firstName": "Frank",
+            "lastName": "Chaparro",
+            "job": "Head of Strategic Communications",
+            "company": "GSR",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "a45578f89c5d17f6": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "a45578f89c5d17f6",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:15",
+        "end": "2026-10-08T11:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Yu Hu",
+            "firstName": "Yu",
+            "lastName": "Hu",
+            "job": "CEO",
+            "company": "Kaito AI",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "8a6fd9b038ba5e36": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "8a6fd9b038ba5e36",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:15",
+        "end": "2026-10-08T11:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "The Agentic Era of Finance: Co-Invest and Beyond",
+        "speakers": [
+          {
+            "name": "Franklyn Wang",
+            "firstName": "Franklyn",
+            "lastName": "Wang",
+            "job": "CEO",
+            "company": "Liquid / CoInvest",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "b3dfe3c27407e0b0": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "b3dfe3c27407e0b0",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:20",
+        "end": "2026-10-08T12:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 40,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "Chopping Block Live with Balaji Srinivasan & Arthur Hayes",
+        "speakers": [
+          {
+            "name": "Balaji Srinivasan",
+            "firstName": "Balaji",
+            "lastName": "Srinivasan",
+            "job": "Founder, Investor, and Author",
+            "company": "The Network State",
+            "role": "speaker"
+          },
+          {
+            "name": "Arthur Hayes",
+            "firstName": "Arthur",
+            "lastName": "Hayes",
+            "job": "CIO",
+            "company": "Maelstrom",
+            "role": "speaker"
+          },
+          {
+            "name": "Tarun Chitra",
+            "firstName": "Tarun",
+            "lastName": "Chitra",
+            "job": "CEO",
+            "company": "Gauntlet",
+            "role": "speaker"
+          },
+          {
+            "name": "Tom Schmidt",
+            "firstName": "Tom",
+            "lastName": "Schmidt",
+            "job": "General Partner",
+            "company": "Dragonfly",
+            "role": "speaker"
+          },
+          {
+            "name": "Haseeb Qureshi",
+            "firstName": "Haseeb",
+            "lastName": "Qureshi",
+            "job": "Managing Partner",
+            "company": "Dragonfly",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "11e8ebab83f5e521": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "11e8ebab83f5e521",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:20",
+        "end": "2026-10-08T11:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "Institutional Stage",
+        "type": "Fireside",
+        "title": "Polymarket: The Information Edge",
+        "speakers": [
+          {
+            "name": "Shayne Coplan",
+            "firstName": "Shayne",
+            "lastName": "Coplan",
+            "job": "Founder and CEO",
+            "company": "Polymarket",
+            "role": "speaker"
+          },
+          {
+            "name": "Rob Hadick",
+            "firstName": "Rob",
+            "lastName": "Hadick",
+            "job": "General Partner",
+            "company": "Dragonfly",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "24db768e79c3a424": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "24db768e79c3a424",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:30",
+        "end": "2026-10-08T11:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "What’s Next for $TRUMP",
+        "speakers": [
+          {
+            "name": "Bill Zanker",
+            "firstName": "Bill",
+            "lastName": "Zanker",
+            "job": "Co-Founder",
+            "company": "$TRUMP",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "a6b2c7dbbd7c5875": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "a6b2c7dbbd7c5875",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:30",
+        "end": "2026-10-08T11:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Austin Federa",
+            "firstName": "Austin",
+            "lastName": "Federa",
+            "job": "Co-Founder and CEO",
+            "company": "DoubleZero",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "68daccab5e1e108d": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "68daccab5e1e108d",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:40",
+        "end": "2026-10-08T12:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "Institutional Stage",
+        "type": "Panel",
+        "title": "Institutional Flows: What’s Changed, What’s Next?",
+        "speakers": [
+          {
+            "name": "Amy Oldenburg",
+            "firstName": "Amy",
+            "lastName": "Oldenburg",
+            "job": "Head of Digital Asset Strategy",
+            "company": "Morgan Stanley",
+            "role": "speaker"
+          },
+          {
+            "name": "Laurie Katz",
+            "firstName": "Laurie",
+            "lastName": "Katz",
+            "job": "Global Head of Distribution",
+            "company": "Grayscale",
+            "role": "speaker"
+          },
+          {
+            "name": "Michael Ippolito",
+            "firstName": "Michael",
+            "lastName": "Ippolito",
+            "job": "Co-Founder",
+            "company": "Blockworks",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "e56649c2d0dc1fd0": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "e56649c2d0dc1fd0",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:40",
+        "end": "2026-10-08T12:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "OKX Main Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Olaf Carlson-Wee",
+            "firstName": "Olaf",
+            "lastName": "Carlson-Wee",
+            "job": "Founder and CEO",
+            "company": "Polychain",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "4be9fc3d9476c183": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "4be9fc3d9476c183",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:45",
+        "end": "2026-10-08T12:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "The Parallel AI Blockchain for the Machine Economy",
+        "speakers": [
+          {
+            "name": "Juan Jose",
+            "firstName": "Juan",
+            "lastName": "Jose",
+            "job": "CEO",
+            "company": "Bitroot",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "860b63eb56193759": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "860b63eb56193759",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T11:45",
+        "end": "2026-10-08T12:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Dryden Brown",
+            "firstName": "Dryden",
+            "lastName": "Brown",
+            "job": "CEO",
+            "company": "Praxis",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "65ffffc5fffb3493": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "65ffffc5fffb3493",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T12:00",
+        "end": "2026-10-08T12:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "Why Dubai Wins",
+        "speakers": [
+          {
+            "name": "Deepa Raja Carbon",
+            "firstName": "Deepa",
+            "lastName": "Raja Carbon",
+            "job": "Vice Chair and Managing Director",
+            "company": "VARA",
+            "role": "speaker"
+          },
+          {
+            "name": "Henri Arslanian",
+            "firstName": "Henri",
+            "lastName": "Arslanian",
+            "job": "Co-Founder and Managing Partner",
+            "company": "Nine Blocks Capital Management",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "d6991b89447c9f53": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "d6991b89447c9f53",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T12:00",
+        "end": "2026-10-08T12:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "The New Era of Websea: Building the Next Generation of Digital Asset Trading",
+        "speakers": [
+          {
+            "name": "Herbert Sim",
+            "firstName": "Herbert",
+            "lastName": "Sim",
+            "job": "CMO",
+            "company": "Websea",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "1b7dc35cbf6d4442": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "1b7dc35cbf6d4442",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T12:00",
+        "end": "2026-10-08T12:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Fireside",
+        "title": "Fireside Chat: Frederik Gregaard",
+        "speakers": [
+          {
+            "name": "Frederik Gregaard",
+            "firstName": "Frederik",
+            "lastName": "Gregaard",
+            "job": "CEO",
+            "company": "Cardano Foundation",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "df6d80ed903f2883": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "df6d80ed903f2883",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T12:00",
+        "end": "2026-10-08T12:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "Ethereum’s Next Act: From Asset to Economy",
+        "speakers": [
+          {
+            "name": "Joseph Lubin",
+            "firstName": "Joseph",
+            "lastName": "Lubin",
+            "job": "Co‑Founder / Chairman and CEO",
+            "company": "Ethereum / MetaMask",
+            "role": "speaker"
+          },
+          {
+            "name": "Paul Frambot",
+            "firstName": "Paul",
+            "lastName": "Frambot",
+            "job": "Co-Founder and CEO",
+            "company": "Morpho",
+            "role": "speaker"
+          },
+          {
+            "name": "Sam Tabar",
+            "firstName": "Sam",
+            "lastName": "Tabar",
+            "job": "CEO",
+            "company": "Bit Digital",
+            "role": "speaker"
+          },
+          {
+            "name": "Kartik Talwar",
+            "firstName": "Kartik",
+            "lastName": "Talwar",
+            "job": "Co-Founder",
+            "company": "ETHGlobal",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "2ac8d37970ba0923": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "2ac8d37970ba0923",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T12:15",
+        "end": "2026-10-08T12:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Max Resnick",
+            "firstName": "Max",
+            "lastName": "Resnick",
+            "job": "Lead Economist",
+            "company": "Anza",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "5796b815bd4978bf": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "5796b815bd4978bf",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T12:20",
+        "end": "2026-10-08T13:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 40,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "Market Bubble Live with Ansem, Mayne and Avi Felman",
+        "speakers": [
+          {
+            "name": "Mayne",
+            "firstName": "Mayne",
+            "lastName": "",
+            "job": "Founder",
+            "company": "Breakout",
+            "role": "speaker"
+          },
+          {
+            "name": "Avi Felman",
+            "firstName": "Avi",
+            "lastName": "Felman",
+            "job": "CEO",
+            "company": "1000x Media",
+            "role": "speaker"
+          },
+          {
+            "name": "Ansem ​",
+            "firstName": "Ansem",
+            "lastName": "​",
+            "job": "Co-Founder",
+            "company": "Bullpen",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "1063798449193186": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "1063798449193186",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T12:20",
+        "end": "2026-10-08T12:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "Institutional Stage",
+        "type": "Panel",
+        "title": "Hyperliquid: Building the Infrastructure for All Finance",
+        "speakers": [
+          {
+            "name": "Jeff Yan",
+            "firstName": "Jeff",
+            "lastName": "Yan",
+            "job": "CEO",
+            "company": "Hyperliquid Labs",
+            "role": "speaker"
+          },
+          {
+            "name": "Jake Chervinsky",
+            "firstName": "Jake",
+            "lastName": "Chervinsky",
+            "job": "CEO",
+            "company": "Hyperliquid Policy Center",
+            "role": "speaker"
+          },
+          {
+            "name": "David Schamis",
+            "firstName": "David",
+            "lastName": "Schamis",
+            "job": "President and CEO",
+            "company": "Hyperliquid Strategies Inc",
+            "role": "speaker"
+          },
+          {
+            "name": "Michael Blaugrund",
+            "firstName": "Michael",
+            "lastName": "Blaugrund",
+            "job": "VP, Strategic Initiatives",
+            "company": "ICE",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "dc6c01e69eb11d5c": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "dc6c01e69eb11d5c",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T12:30",
+        "end": "2026-10-08T12:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Todd Ault",
+            "firstName": "Todd",
+            "lastName": "Ault",
+            "job": "Founder and CEO",
+            "company": "Ault Capital Group",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "be4fe1372eb4ec45": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "be4fe1372eb4ec45",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T12:30",
+        "end": "2026-10-08T13:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "MEXC Stage",
+        "type": "Panel",
+        "title": "Growing the Pie: Why New Issuers and Allocators are the Future of DeFi",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "ee1fc33658fdf16c": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "ee1fc33658fdf16c",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T12:30",
+        "end": "2026-10-08T12:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "OKX Main Stage",
+        "type": "Keynote",
+        "title": "The Frontier of Bitcoin",
+        "speakers": [
+          {
+            "name": "Muneeb Ali",
+            "firstName": "Muneeb",
+            "lastName": "Ali",
+            "job": "Founder",
+            "company": "Stacks",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "f06a22091aafaa6f": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "f06a22091aafaa6f",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T12:45",
+        "end": "2026-10-08T13:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "OKX Main Stage",
+        "type": "Fireside",
+        "title": "Fireside Chat with Justin Sun",
+        "speakers": [
+          {
+            "name": "Justin Sun",
+            "firstName": "Justin",
+            "lastName": "Sun",
+            "job": "Founder",
+            "company": "TRON",
+            "role": "speaker"
+          },
+          {
+            "name": "Kevin Follonier",
+            "firstName": "Kevin",
+            "lastName": "Follonier",
+            "job": "Founder",
+            "company": "When Shift happens",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "dc60abeae2783d5c": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "dc60abeae2783d5c",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T13:00",
+        "end": "2026-10-08T14:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 60,
+        "stage": null,
+        "type": "General",
+        "title": "Lunch",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "016ddc7bb486e4e9": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "016ddc7bb486e4e9",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T14:00",
+        "end": "2026-10-08T14:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "Crypto Neobanks: The Race to Replace Your Bank",
+        "speakers": [
+          {
+            "name": "Mike Silagadze",
+            "firstName": "Mike",
+            "lastName": "Silagadze",
+            "job": "Founder and CEO",
+            "company": "ether.fi",
+            "role": "speaker"
+          },
+          {
+            "name": "Farooq Malik",
+            "firstName": "Farooq",
+            "lastName": "Malik",
+            "job": "Co-Founder and CEO",
+            "company": "Rain",
+            "role": "speaker"
+          },
+          {
+            "name": "Zaheer Ebtikar",
+            "firstName": "Zaheer",
+            "lastName": "Ebtikar",
+            "job": "CSO",
+            "company": "Plasma",
+            "role": "speaker"
+          },
+          {
+            "name": "Bobby Ong",
+            "firstName": "Bobby",
+            "lastName": "Ong",
+            "job": "Co-Founder and CEO",
+            "company": "Coingecko",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "293c2c4f3a0a96fd": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "293c2c4f3a0a96fd",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T14:00",
+        "end": "2026-10-08T14:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Sandeep Nailwal",
+            "firstName": "Sandeep",
+            "lastName": "Nailwal",
+            "job": "CEO",
+            "company": "Polygon Foundation",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "5bf4ed852e8d9167": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "5bf4ed852e8d9167",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T14:00",
+        "end": "2026-10-08T14:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "Institutional Stage",
+        "type": "Panel",
+        "title": "Digital Assets: Strategic Allocation, Risk and Return",
+        "speakers": [
+          {
+            "name": "Dan Tapiero",
+            "firstName": "Dan",
+            "lastName": "Tapiero",
+            "job": "Founder, CEO, and CIO",
+            "company": "50T Funds",
+            "role": "speaker"
+          },
+          {
+            "name": "Scott Lawin",
+            "firstName": "Scott",
+            "lastName": "Lawin",
+            "job": "President",
+            "company": "Pantera Capital",
+            "role": "speaker"
+          },
+          {
+            "name": "Frank Chaparro",
+            "firstName": "Frank",
+            "lastName": "Chaparro",
+            "job": "Head of Strategic Communications",
+            "company": "GSR",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "4e49dd37792b4059": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "4e49dd37792b4059",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T14:00",
+        "end": "2026-10-08T14:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "MEXC Stage",
+        "type": "Panel",
+        "title": "Crypto Venture Capital: What’s Getting Funded Now?",
+        "speakers": [
+          {
+            "name": "Steve Lee",
+            "firstName": "Steve",
+            "lastName": "Lee",
+            "job": "Co-Founder and Managing Partner",
+            "company": "Neoclassic Capital",
+            "role": "speaker"
+          },
+          {
+            "name": "Akshat Vaidya",
+            "firstName": "Akshat",
+            "lastName": "Vaidya",
+            "job": "Co-Founder and Managing Partner",
+            "company": "Maelstrom",
+            "role": "speaker"
+          },
+          {
+            "name": "Min Teo",
+            "firstName": "Min",
+            "lastName": "Teo",
+            "job": "Managing Partner",
+            "company": "Ethereal Ventures",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "1c15ecf1dbb8efb3": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "1c15ecf1dbb8efb3",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T14:00",
+        "end": "2026-10-08T14:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "OKX Main Stage",
+        "type": "Fireside",
+        "title": "Fireside Chat with Nasdaq CEO Adena Friedman",
+        "speakers": [
+          {
+            "name": "Adena Friedman",
+            "firstName": "Adena",
+            "lastName": "Friedman",
+            "job": "Chair and CEO",
+            "company": "Nasdaq",
+            "role": "speaker"
+          },
+          {
+            "name": "Joanna Ossinger",
+            "firstName": "Joanna",
+            "lastName": "Ossinger",
+            "job": "Managing Editor",
+            "company": "CNBC",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "928e596e350a8288": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "928e596e350a8288",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T14:20",
+        "end": "2026-10-08T14:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "Institutional Stage",
+        "type": "Panel",
+        "title": "Expanding the Institutional Trading Universe",
+        "speakers": [
+          {
+            "name": "Andy Ross",
+            "firstName": "Andy",
+            "lastName": "Ross",
+            "job": "Head of Institutional Business",
+            "company": "Kalshi",
+            "role": "speaker"
+          },
+          {
+            "name": "Giovanni Vicioso",
+            "firstName": "Giovanni",
+            "lastName": "Vicioso",
+            "job": "Global Head of Cryptocurrency Products",
+            "company": "CME Group",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "352c12a7df5bc93d": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "352c12a7df5bc93d",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T14:30",
+        "end": "2026-10-08T15:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "Will AI Break Crypto, or Make It Stronger?",
+        "speakers": [
+          {
+            "name": "Cosmo Jiang",
+            "firstName": "Cosmo",
+            "lastName": "Jiang",
+            "job": "General Partner",
+            "company": "Pantera Capital",
+            "role": "speaker"
+          },
+          {
+            "name": "Drake Evans",
+            "firstName": "Drake",
+            "lastName": "Evans",
+            "job": "Co-Founder and CTO",
+            "company": "Agora",
+            "role": "speaker"
+          },
+          {
+            "name": "Jonathan Levin",
+            "firstName": "Jonathan",
+            "lastName": "Levin",
+            "job": "Co-Founder and CEO",
+            "company": "Chainalysis",
+            "role": "speaker"
+          },
+          {
+            "name": "Logan Jastremski",
+            "firstName": "Logan",
+            "lastName": "Jastremski",
+            "job": "Managing Partner",
+            "company": "Frictionless Capital",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "9e9c03ea424a56a4": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "9e9c03ea424a56a4",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T14:30",
+        "end": "2026-10-08T15:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "MEXC Stage",
+        "type": "Panel",
+        "title": "Crypto’s Comeback: Are You Holding the Wrong Coins?",
+        "speakers": [
+          {
+            "name": "zeroxkyle",
+            "firstName": "zeroxkyle",
+            "lastName": "",
+            "job": "Senior Investment Analyst",
+            "company": "DefiLlama",
+            "role": "speaker"
+          },
+          {
+            "name": "Mayne",
+            "firstName": "Mayne",
+            "lastName": "",
+            "job": "Founder",
+            "company": "Breakout",
+            "role": "speaker"
+          },
+          {
+            "name": "Dennis Qian",
+            "firstName": "Dennis",
+            "lastName": "Qian",
+            "job": "Co-Founder",
+            "company": "Definitive Finance",
+            "role": "speaker"
+          },
+          {
+            "name": "Andy Cavanaugh",
+            "firstName": "Andy",
+            "lastName": "Cavanaugh",
+            "job": "Co-Founder",
+            "company": "The Rollup",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "0745f91c61aa5986": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "0745f91c61aa5986",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T14:40",
+        "end": "2026-10-08T15:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "Institutional Stage",
+        "type": "Panel",
+        "title": "24/7 Markets: The Future of Global Trading",
+        "speakers": [
+          {
+            "name": "Adena Friedman",
+            "firstName": "Adena",
+            "lastName": "Friedman",
+            "job": "Chair and CEO",
+            "company": "Nasdaq",
+            "role": "speaker"
+          },
+          {
+            "name": "Arjun Sethi",
+            "firstName": "Arjun",
+            "lastName": "Sethi",
+            "job": "Co-CEO",
+            "company": "Payward / Kraken",
+            "role": "speaker"
+          },
+          {
+            "name": "Joanna Ossinger",
+            "firstName": "Joanna",
+            "lastName": "Ossinger",
+            "job": "Managing Editor",
+            "company": "CNBC",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "cdc729a88addabfe": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "cdc729a88addabfe",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T14:40",
+        "end": "2026-10-08T15:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "The Next 100 Million RWA Holders Are Already Onchain",
+        "speakers": [
+          {
+            "name": "Joseph Lubin",
+            "firstName": "Joseph",
+            "lastName": "Lubin",
+            "job": "Co‑Founder / Chairman and CEO",
+            "company": "Ethereum / MetaMask",
+            "role": "speaker"
+          },
+          {
+            "name": "Johann Kerbrat",
+            "firstName": "Johann",
+            "lastName": "Kerbrat",
+            "job": "SVP and GM, Crypto and International",
+            "company": "Robinhood",
+            "role": "speaker"
+          },
+          {
+            "name": "David Hoffman",
+            "firstName": "David",
+            "lastName": "Hoffman",
+            "job": "Owner",
+            "company": "Bankless",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "4fb36f210a291e17": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "4fb36f210a291e17",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T15:00",
+        "end": "2026-10-08T15:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "Institutional Crypto Capital Flows",
+        "speakers": [
+          {
+            "name": "Giovanni Vicioso",
+            "firstName": "Giovanni",
+            "lastName": "Vicioso",
+            "job": "Global Head of Cryptocurrency Products",
+            "company": "CME Group",
+            "role": "speaker"
+          },
+          {
+            "name": "Liz Martin",
+            "firstName": "Liz",
+            "lastName": "Martin",
+            "job": "CEO",
+            "company": "Coinbase Institutional",
+            "role": "speaker"
+          },
+          {
+            "name": "Kathleen Wrynn",
+            "firstName": "Kathleen",
+            "lastName": "Wrynn",
+            "job": "Global Head of Digital Assets",
+            "company": "Invesco",
+            "role": "speaker"
+          },
+          {
+            "name": "Frank Chaparro",
+            "firstName": "Frank",
+            "lastName": "Chaparro",
+            "job": "Head of Strategic Communications",
+            "company": "GSR",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "7a8dc92846468bce": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "7a8dc92846468bce",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T15:00",
+        "end": "2026-10-08T16:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 60,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS Startup Competition Final Round",
+        "speakers": [
+          {
+            "name": "Tom Schmidt",
+            "firstName": "Tom",
+            "lastName": "Schmidt",
+            "job": "General Partner",
+            "company": "Dragonfly",
+            "role": "speaker"
+          },
+          {
+            "name": "Akshat Vaidya",
+            "firstName": "Akshat",
+            "lastName": "Vaidya",
+            "job": "Co-Founder and Managing Partner",
+            "company": "Maelstrom",
+            "role": "speaker"
+          },
+          {
+            "name": "Spencer Applebaum",
+            "firstName": "Spencer",
+            "lastName": "Applebaum",
+            "job": "GP and Co-Head of Venture",
+            "company": "Multicoin Capital",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "c7ef3207d5b6817d": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "c7ef3207d5b6817d",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T15:00",
+        "end": "2026-10-08T15:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "OKX Main Stage",
+        "type": "Keynote",
+        "title": "The Future of Real World Assets - On Chain Equities, Perps, and Beyond",
+        "speakers": [
+          {
+            "name": "Kyle Samani",
+            "firstName": "Kyle",
+            "lastName": "Samani",
+            "job": "Chairman",
+            "company": "Forward Industries",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "4b787476797d254c": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "4b787476797d254c",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T15:15",
+        "end": "2026-10-08T15:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Tokenization: Capital for Humanity",
+        "speakers": [
+          {
+            "name": "Monty Metzger",
+            "firstName": "Monty",
+            "lastName": "Metzger",
+            "job": "Chairman",
+            "company": "Toto Finance",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "1288a48a2d7d61a8": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "1288a48a2d7d61a8",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T15:20",
+        "end": "2026-10-08T15:40",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "Institutional Stage",
+        "type": "Panel",
+        "title": "Tokenization: Building the Markets of Tomorrow",
+        "speakers": [
+          {
+            "name": "Nikhil Sharma",
+            "firstName": "Nikhil",
+            "lastName": "Sharma",
+            "job": "Director, Digital Assets",
+            "company": "BlackRock",
+            "role": "speaker"
+          },
+          {
+            "name": "Bart Smith",
+            "firstName": "Bart",
+            "lastName": "Smith",
+            "job": "CEO",
+            "company": "AVAT",
+            "role": "speaker"
+          },
+          {
+            "name": "Thomas Chen",
+            "firstName": "Thomas",
+            "lastName": "Chen",
+            "job": "Head of Commercial",
+            "company": "BNB Chain",
+            "role": "speaker"
+          },
+          {
+            "name": "Henri Arslanian",
+            "firstName": "Henri",
+            "lastName": "Arslanian",
+            "job": "Co-Founder and Managing Partner",
+            "company": "Nine Blocks Capital Management",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "acf5dbe431f1f22a": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "acf5dbe431f1f22a",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T15:20",
+        "end": "2026-10-08T15:50",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "The Speculation Age: When Everything Becomes Tradable",
+        "speakers": [
+          {
+            "name": "Johann Kerbrat",
+            "firstName": "Johann",
+            "lastName": "Kerbrat",
+            "job": "SVP and GM, Crypto and International",
+            "company": "Robinhood",
+            "role": "speaker"
+          },
+          {
+            "name": "Rob Hadick",
+            "firstName": "Rob",
+            "lastName": "Hadick",
+            "job": "General Partner",
+            "company": "Dragonfly",
+            "role": "speaker"
+          },
+          {
+            "name": "Akshay BD",
+            "firstName": "Akshay",
+            "lastName": "BD",
+            "job": "",
+            "company": "",
+            "role": "speaker"
+          },
+          {
+            "name": "Jordi Alexander",
+            "firstName": "Jordi",
+            "lastName": "Alexander",
+            "job": "Founder",
+            "company": "Selini Capital",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "28bbe387960ef521": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "28bbe387960ef521",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T15:30",
+        "end": "2026-10-08T16:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "Inside Crypto’s Trading Desks: The Market Outlook",
+        "speakers": [
+          {
+            "name": "Yoann Turpin",
+            "firstName": "Yoann",
+            "lastName": "Turpin",
+            "job": "Co-Founder",
+            "company": "Wintermute",
+            "role": "speaker"
+          },
+          {
+            "name": "Thomas Uhm",
+            "firstName": "Thomas",
+            "lastName": "Uhm",
+            "job": "Quant Research Director",
+            "company": "QRT",
+            "role": "speaker"
+          },
+          {
+            "name": "Darius Sit",
+            "firstName": "Darius",
+            "lastName": "Sit",
+            "job": "Founder",
+            "company": "QCP",
+            "role": "speaker"
+          },
+          {
+            "name": "Xin Song",
+            "firstName": "Xin",
+            "lastName": "Song",
+            "job": "CEO",
+            "company": "GSR",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "7135c8d91a9f1753": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "7135c8d91a9f1753",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T15:30",
+        "end": "2026-10-08T15:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "John Nahas",
+            "firstName": "John",
+            "lastName": "Nahas",
+            "job": "CBO",
+            "company": "Ava Labs",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "7ef698ba807d2284": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "7ef698ba807d2284",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T15:40",
+        "end": "2026-10-08T16:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 20,
+        "stage": "Institutional Stage",
+        "type": "Panel",
+        "title": "Stablecoins in Global Payments: Adoption, Integration and Scale",
+        "speakers": [
+          {
+            "name": "Henri Stern",
+            "firstName": "Henri",
+            "lastName": "Stern",
+            "job": "Co-Founder and CEO",
+            "company": "Privy",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "05a2f7cb687a9a1d": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "05a2f7cb687a9a1d",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T15:50",
+        "end": "2026-10-08T16:20",
+        "timezone": "Asia/Singapore",
+        "durationMin": 30,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "The Next Crypto Cycle Will Look Different",
+        "speakers": [
+          {
+            "name": "Kevin Lee",
+            "firstName": "Kevin",
+            "lastName": "Lee",
+            "job": "CSO",
+            "company": "BingX",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "2866883516cbdcd3": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "2866883516cbdcd3",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T16:00",
+        "end": "2026-10-08T17:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 60,
+        "stage": "BingX Labs Stage",
+        "type": "Panel",
+        "title": "The TOKEN2049 Roast of Ansem with T.J. Miller",
+        "speakers": [
+          {
+            "name": "T.J. Miller",
+            "firstName": "T.J.",
+            "lastName": "Miller",
+            "job": "Actor and Comedian",
+            "company": "",
+            "role": "speaker"
+          },
+          {
+            "name": "Ansem ​",
+            "firstName": "Ansem",
+            "lastName": "​",
+            "job": "Co-Founder",
+            "company": "Bullpen",
+            "role": "speaker"
+          },
+          {
+            "name": "Jarred Winn",
+            "firstName": "Jarred",
+            "lastName": "Winn",
+            "job": "Founder and CEO",
+            "company": "Winn.solutions",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "38299f3ec93c9910": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "38299f3ec93c9910",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T16:00",
+        "end": "2026-10-08T17:15",
+        "timezone": "Asia/Singapore",
+        "durationMin": 75,
+        "stage": "MEXC Stage",
+        "type": "Hackathon",
+        "title": "TOKEN2049 Origins Hackathon Demos",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "d28547af5cef87d9": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "d28547af5cef87d9",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T16:15",
+        "end": "2026-10-08T16:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Keynote",
+        "speakers": [
+          {
+            "name": "Omar-Shakeeb Zahir",
+            "firstName": "Omar-Shakeeb",
+            "lastName": "Zahir",
+            "job": "Co-Founder and CEO",
+            "company": "SecondLane",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "74894d3b52ec2c6d": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "74894d3b52ec2c6d",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T16:20",
+        "end": "2026-10-08T17:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 40,
+        "stage": "OKX Main Stage",
+        "type": "Panel",
+        "title": "Tokenization: The Next Investment Revolution",
+        "speakers": [
+          {
+            "name": "Cynthia Lo Bessette",
+            "firstName": "Cynthia",
+            "lastName": "Lo Bessette",
+            "job": "Head of Digital Asset Management",
+            "company": "Fidelity Investments",
+            "role": "speaker"
+          },
+          {
+            "name": "Hunter Horsley",
+            "firstName": "Hunter",
+            "lastName": "Horsley",
+            "job": "CEO",
+            "company": "Bitwise Asset Management",
+            "role": "speaker"
+          },
+          {
+            "name": "Nikhil Sharma",
+            "firstName": "Nikhil",
+            "lastName": "Sharma",
+            "job": "Director, Digital Assets",
+            "company": "BlackRock",
+            "role": "speaker"
+          },
+          {
+            "name": "Amy Oldenburg",
+            "firstName": "Amy",
+            "lastName": "Oldenburg",
+            "job": "Head of Digital Asset Strategy",
+            "company": "Morgan Stanley",
+            "role": "speaker"
+          },
+          {
+            "name": "Michael Blaugrund",
+            "firstName": "Michael",
+            "lastName": "Blaugrund",
+            "job": "VP, Strategic Initiatives",
+            "company": "ICE",
+            "role": "moderator"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "39bc4e898cf177f7": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "39bc4e898cf177f7",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T16:30",
+        "end": "2026-10-08T16:45",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "Bit Digital Stage",
+        "type": "Keynote",
+        "title": "Bridging Onchain Debt Markets with Real World Businesses",
+        "speakers": [
+          {
+            "name": "Benjamin Sarquis Peillard",
+            "firstName": "Benjamin",
+            "lastName": "Sarquis Peillard",
+            "job": "Founder and CEO",
+            "company": "Cap",
+            "role": "speaker"
+          }
+        ],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "3329938e67cf1d24": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "3329938e67cf1d24",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T17:15",
+        "end": "2026-10-08T17:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 15,
+        "stage": "MEXC Stage",
+        "type": "Startup Competition",
+        "title": "NEXUS Startup Competition Winner Announcement",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "8b34dcfdb9289a9b": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "8b34dcfdb9289a9b",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T17:55",
+        "end": "2026-10-08T18:00",
+        "timezone": "Asia/Singapore",
+        "durationMin": 5,
+        "stage": "OKX Main Stage",
+        "type": "Outro",
+        "title": "TOKEN2049 Singapore Closing Remarks",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    },
+    "abe003c2250e4094": {
+      "status": "live",
+      "firstSeen": "2026-10-01T10:09:00.093Z",
+      "lastChanged": "2026-10-01T10:09:00.093Z",
+      "session": {
+        "id": "abe003c2250e4094",
+        "event": "token2049-singapore-2026",
+        "day": "2026-10-08",
+        "start": "2026-10-08T18:00",
+        "end": "2026-10-08T19:30",
+        "timezone": "Asia/Singapore",
+        "durationMin": 90,
+        "stage": null,
+        "type": "General",
+        "title": "Networking Drinks",
+        "speakers": [],
+        "venue": "Marina Bay Sands, Singapore",
+        "sourceUrl": "https://token2049.com/singapore/agenda"
+      }
+    }
+  },
+  "changelog": []
+}

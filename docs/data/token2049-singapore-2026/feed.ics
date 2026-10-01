@@ -1,0 +1,2092 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DeveloperAlly//token2049-agenda//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TOKEN2049 Singapore 2026
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:a306cf1f74467159@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261006T233000Z
+DTEND:20261007T010000Z
+SUMMARY:Registration and Continental Breakfast
+DESCRIPTION:General\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+UID:1cb6154a10041250@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T010000Z
+DTEND:20261007T011000Z
+SUMMARY:Welcome to TOKEN2049 Singapore
+DESCRIPTION:Intro\nStage: OKX Main Stage\n\nhttps://token2049.com/singapore
+ /agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Intro
+END:VEVENT
+BEGIN:VEVENT
+UID:fd00462dd173fc03@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T011000Z
+DTEND:20261007T013000Z
+SUMMARY:The Open Source Network State
+DESCRIPTION:Keynote\nStage: OKX Main Stage\n\nSpeakers:\n• Balaji Sriniva
+ san - Founder\, The Network State\n\nhttps://token2049.com/singapore/agend
+ a
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3e7d86838eb908@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T011500Z
+DTEND:20261007T015000Z
+SUMMARY:The Next Cycle: Investing in a Changed Market
+DESCRIPTION:Panel\nStage: MEXC Stage\n\nSpeakers:\n• Arthur Cheong - CEO 
+ and CIO\, DeFiance Capital\n• Jason Kam - Founder\, Folius Ventures\n•
+  Zaheer Ebtikar - CSO\, Plasma\n\nModerator:\n• Avi Felman - CEO\, 1000x
+  Media\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:7631656b8a70b7e5@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T013000Z
+DTEND:20261007T020000Z
+SUMMARY:Polymarket Fireside Chat
+DESCRIPTION:Fireside\nStage: OKX Main Stage\n\nSpeakers:\n• Shayne Coplan
+  - Founder and CEO\, Polymarket\n\nModerator:\n• Balaji Srinivasan - Fou
+ nder\, The Network State\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:a712f140ef9f4a6a@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T015000Z
+DTEND:20261007T021000Z
+SUMMARY:Market Wizards
+DESCRIPTION:Fireside\nStage: MEXC Stage\n\nSpeakers:\n• Dim Selk - Invest
+ ments\, Selini Capital\n\nModerator:\n• Jordi Alexander - Founder\, Seli
+ ni Capital\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:2c52a4b3e194d275@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T020000Z
+DTEND:20261007T022000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: BingX Labs Stage\n\nSpeakers:\n• Zooko - CPO\
+ , Shielded Labs / Zcash\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:b216252431294446@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T020000Z
+DTEND:20261007T022000Z
+SUMMARY:Crypto Spring Turning Into Full Blown Bull Market
+DESCRIPTION:Keynote\nStage: OKX Main Stage\n\nSpeakers:\n• Tom Lee - CIO 
+ and Portfolio Manager / Chairman\, Fundstrat / BitMine\n\nhttps://token204
+ 9.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:fc9a9dfd9d0f4937@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T021000Z
+DTEND:20261007T023000Z
+SUMMARY:Building the Neobrokerage
+DESCRIPTION:Fireside\nStage: MEXC Stage\n\nSpeakers:\n• Armani Ferrante -
+  Founder and CEO\, Backpack Exchange\n\nModerator:\n• Kyle Samani - Chai
+ rman\, Forward Industries\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:9b351aaebec9a700@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T021500Z
+DTEND:20261007T023000Z
+SUMMARY:Crypto-Agility in the Age of Quantum: Introducing Strongpoint
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Alex Pruden
+  - Co-Founder and CEO\, Project Eleven\n\nhttps://token2049.com/singapore/
+ agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:121b2f788a2adf3e@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T022000Z
+DTEND:20261007T024000Z
+SUMMARY:Crypto x AI: Funding the Next Industrial Revolution
+DESCRIPTION:Keynote\nStage: BingX Labs Stage\n\nSpeakers:\n• Alex Pack - 
+ Managing Partner\, Hack VC\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:a9abce5408d4ebf6@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T022000Z
+DTEND:20261007T030000Z
+SUMMARY:DeFi’s Institutional Breakthrough
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Stani Kulechov -
+  Founder and CEO\, Aave Labs\n• Guy Young - CEO\, Ethena Labs\n• Kain 
+ Warwick - Founder\, Infinex / Synthetix\n\nModerator:\n• Robbie Petersen
+  - Investment Partner\, a16z crypto\n\nhttps://token2049.com/singapore/age
+ nda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:188a05adb6de961b@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T023000Z
+DTEND:20261007T024500Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Steven Gold
+ feder - Co-Founder and CEO\, Offchain Labs\n\nhttps://token2049.com/singap
+ ore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:08a96a9707b955bd@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T023000Z
+DTEND:20261007T024500Z
+SUMMARY:Wall St. 2049: Everything Trades\, Nobody Sleeps
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Akshay BD - Non-CM
+ O\, Solana Foundation\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:4cfcc8e8f3117af2@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T024000Z
+DTEND:20261007T030000Z
+SUMMARY:Intelligence You Own\, Not Rent
+DESCRIPTION:Keynote\nStage: BingX Labs Stage\n\nSpeakers:\n• Emad Mostaqu
+ e - Founder and CEO\, Intelligent Internet\n\nhttps://token2049.com/singap
+ ore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:d5afd4fd34b458af@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T024500Z
+DTEND:20261007T030000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Yoshi Yokok
+ awa - Co-Founder and CEO\, Alpaca\n\nhttps://token2049.com/singapore/agend
+ a
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:73614e73d6f88235@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T024500Z
+DTEND:20261007T030000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Keone Hon - Co-Fou
+ nder\, Monad Foundation\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:388f5b961b13d0e4@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T030000Z
+DTEND:20261007T032000Z
+SUMMARY:AI Agents Trading on the Blockchain
+DESCRIPTION:Keynote\nStage: BingX Labs Stage\n\nSpeakers:\n• Alexander Go
+ od - CEO\, Post Fiat\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:4f14bcf6b4b9c8a8@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T030000Z
+DTEND:20261007T031500Z
+SUMMARY:Agentic Trading: Will AI Outperform Human Traders?
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Alex Svanev
+ ik - Co-Founder and CEO\, Nansen\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:f88e14f246a0ed5c@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T030000Z
+DTEND:20261007T031500Z
+SUMMARY:Onchain Options\, Derivatives and the US Market
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Vladimir Novakovsk
+ i - Founder and CEO\, Lighter\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:5ebd68b212c33d90@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T030000Z
+DTEND:20261007T033500Z
+SUMMARY:Hyperliquid: Rebuilding Finance from First Principles
+DESCRIPTION:Fireside\nStage: OKX Main Stage\n\nSpeakers:\n• Jeff Yan - CE
+ O\, Hyperliquid Labs\n\nModerator:\n• Hart Lambur - Co-Founder\, Risk La
+ bs\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:e914d80dd09fe2ef@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T031500Z
+DTEND:20261007T033000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Leo Zhang -
+  CEO\, 42\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:503ae14da7935823@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T031500Z
+DTEND:20261007T033500Z
+SUMMARY:The Memecoin Supercycle: Two Years Later
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Murad Mahmudov - I
+ nvestor\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:34b813503dbff12e@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T032000Z
+DTEND:20261007T034000Z
+SUMMARY:Making AI and Finance Private by Default
+DESCRIPTION:Keynote\nStage: BingX Labs Stage\n\nSpeakers:\n• Illia Polosu
+ khin - Co-Founder\, NEAR Protocol\n\nhttps://token2049.com/singapore/agend
+ a
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:4dd8467ea1fc9e84@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T033000Z
+DTEND:20261007T034500Z
+SUMMARY:Trasia Scout Mode: Defining Perp-trading Paradigm
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Mable Jiang
+  - Co-Founder\, Trasia\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:f54d0b756f57318b@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T033500Z
+DTEND:20261007T040000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: OKX Main Stage\n\nSpeakers:\n• Arthur Hayes -
+  CIO\, Maelstrom\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:1342a1e3223e4971@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T034000Z
+DTEND:20261007T041000Z
+SUMMARY:The Future of Crypto vs The Future of AI
+DESCRIPTION:Fireside\nStage: BingX Labs Stage\n\nSpeakers:\n• Santiago Ro
+ el Santos - Founder and CEO\, Inversion\n\nModerator:\n• Logan Jastremsk
+ i - Managing Partner\, Frictionless Capital\n\nhttps://token2049.com/singa
+ pore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:31e0e665ce3e82eb@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T034000Z
+DTEND:20261007T040000Z
+SUMMARY:How Onchain Goes Mainstream
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Paul Erlanger - CE
+ O\, fomo\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:60ee2b20b4d2bd3a@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T034500Z
+DTEND:20261007T040000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Fahmi Syed 
+ - President\, Midnight\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:6c9b970514f4592b@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T040000Z
+DTEND:20261007T041500Z
+SUMMARY:Power of Vision
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Andrei Grac
+ hev - Managing Partner\, DWF Labs\n\nhttps://token2049.com/singapore/agend
+ a
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:87854fc87fc23df2@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T040000Z
+DTEND:20261007T041500Z
+SUMMARY:The Base Case for Moving Money Onchain
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Jesse Pollak - Hea
+ d of Base\, Base\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:ebd35ca45154333e@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T040000Z
+DTEND:20261007T043000Z
+SUMMARY:The Exponential Age
+DESCRIPTION:Keynote\nStage: OKX Main Stage\n\nSpeakers:\n• Raoul Pal - Co
+ -Founder and CEO\, Real Vision\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:ce1937b6817f4db8@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T041000Z
+DTEND:20261007T043000Z
+SUMMARY:Robinhood Chain
+DESCRIPTION:Fireside\nStage: BingX Labs Stage\n\nSpeakers:\n• Johann Kerb
+ rat - GM and VP\, Robinhood Crypto\n\nModerator:\n• Ran Neuner - Founder
+ \, Crypto Banter\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:45f85acc790136a6@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T041500Z
+DTEND:20261007T043000Z
+SUMMARY:The New Money Stack: Where Fiat Meets Crypto
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Henri Stern - Co-F
+ ounder and CEO\, Privy\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:8d4b98988aba0e42@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T043000Z
+DTEND:20261007T044500Z
+SUMMARY:Welcome to the Trillion-Dollar Agentic Economy
+DESCRIPTION:Keynote\nStage: BingX Labs Stage\n\nhttps://token2049.com/singa
+ pore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:942c4a949a412a06@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T043000Z
+DTEND:20261007T044500Z
+SUMMARY:Next Billion Users Should Never Touch Blockchain
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Pauline Sha
+ ngett - CSO\, ChangeNOW\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:a89c872707aef809@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T043000Z
+DTEND:20261007T050000Z
+SUMMARY:Building the Next Global Trading Platform
+DESCRIPTION:Panel\nStage: MEXC Stage\n\nSpeakers:\n• Vugar Usi - CEO\, ME
+ XC\n• Arjun Sethi - Co-CEO\, Payward / Kraken\n\nhttps://token2049.com/s
+ ingapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:3d110769739daa07@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T044500Z
+DTEND:20261007T050500Z
+SUMMARY:From Charter to Checkout: Making Stablecoins Spendable
+DESCRIPTION:Fireside\nStage: BingX Labs Stage\n\nSpeakers:\n• Zach Witkof
+ f - CEO\, World Liberty Financial\n\nModerator:\n• Bam Azizi - Co-Founde
+ r and CEO\, Mesh\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:d5e2c170b1daa516@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T044500Z
+DTEND:20261007T051500Z
+SUMMARY:The Next Generation of ETH
+DESCRIPTION:Panel\nStage: Bit Digital Stage\n\nSpeakers:\n• Sam Tabar - C
+ EO\, Bit Digital\n• Matthew Dawson - Co-Founder\, Ethereum Institutional
+ \n\nModerator:\n• Amanda Cassatt - Founder and CEO\, Serotonin\n\nhttps:
+ //token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:16617435f26468a3@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T050000Z
+DTEND:20261007T060000Z
+SUMMARY:Lunch
+DESCRIPTION:General\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+UID:b6385ee2c876e55c@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T060000Z
+DTEND:20261007T061500Z
+SUMMARY:Bitcoin-Backed Tokens: The EverValue Case
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Rafael Cast
+ aneda - Head of Ecosystem\, EVA\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c2210e85ab3f1c@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T060000Z
+DTEND:20261007T063000Z
+SUMMARY:DeFi: The Race to Power Global Finance
+DESCRIPTION:Panel\nStage: MEXC Stage\n\nSpeakers:\n• TN Lee - CEO\, Pendl
+ e\n• Cheryl Chan - Head of Strategy and Growth\, Kamino\n\nModerator:\n
+ • Seraphim - Special Situations\, Solana Foundation\n\nhttps://token2049
+ .com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:13c5db7760838915@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T060000Z
+DTEND:20261007T064000Z
+SUMMARY:The Future of Finance\, Built in America
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Eric Trump - Co-
+ Founder\, World Liberty Financial\n• Zach Witkoff - CEO\, World Liberty 
+ Financial\n\nModerator:\n• David Wachsman - CEO\, Wachsman\n\nhttps://to
+ ken2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea0d77b510376f1@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T061500Z
+DTEND:20261007T063000Z
+SUMMARY:Compliant Privacy in Public Blockchains: The Missing Primitive
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Michal Posp
+ ieszalski - CEO\, AmericanFortress\n\nhttps://token2049.com/singapore/agen
+ da
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:373f07063cc0820c@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T063000Z
+DTEND:20261007T065000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: BingX Labs Stage\n\nSpeakers:\n• Zach Pandl -
+  Head of Research\, Grayscale\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:42f53e78e7f74dc2@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T063000Z
+DTEND:20261007T064500Z
+SUMMARY:Personal Data Asset Network for the AI Era
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nhttps://token2049.com/sing
+ apore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:3a87f367f141be81@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T063000Z
+DTEND:20261007T064500Z
+SUMMARY:The Half-Life of Ideas: Why We Back Founders\, Not Narratives
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Will Robinson - Pa
+ rtner\, Alliance\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:7d0e2d8abf5a0560@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T064000Z
+DTEND:20261007T070000Z
+SUMMARY:When Crypto Meets Agents
+DESCRIPTION:Keynote\nStage: OKX Main Stage\n\nSpeakers:\n• Haseeb Qureshi
+  - Managing Partner\, Dragonfly\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:3d87dc3a69eb742c@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T064500Z
+DTEND:20261007T070000Z
+SUMMARY:Stablecoin Powered Neobanks: Ethena and Etherfi
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Guy Young - CEO\, 
+ Ethena Labs\n• Mike Silagadze - Founder and CEO\, ether.fi\n\nhttps://to
+ ken2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:338e9b5da820b63b@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T065000Z
+DTEND:20261007T072000Z
+SUMMARY:From the White House to Wall Street: What’s Next for Crypto?
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Jake Chervinsk
+ y - CEO\, Hyperliquid Policy Center\n• Arjun Sethi - Co-CEO\, Kraken\n
+ • Charles Cascarilla - Co-Founder and CEO\, Paxos\n• Scott Lawin - Pre
+ sident\, Pantera Capital\n\nModerator:\n• Jacquelyn Melinek - Founder an
+ d CEO\, Stratamedia\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:f912c540c3b5c176@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T070000Z
+DTEND:20261007T071500Z
+SUMMARY:Quality Is the New Alpha in Crypto
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Jamie Coutts - Chi
+ ef Crypto Analyst\, Real Vision\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:feddfcb42703ea2a@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T070000Z
+DTEND:20261007T073500Z
+SUMMARY:The Zcash Moment
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Balaji Srinivasa
+ n - Founder\, The Network State\n• Tyler Winklevoss - Co-Founder and CEO
+ \, Gemini\n• Cameron Winklevoss - Co-Founder and President\, Gemini\n\nM
+ oderator:\n• Mert - CEO\, Helius\n\nhttps://token2049.com/singapore/agen
+ da
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:66d7957cb5b11bae@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T071500Z
+DTEND:20261007T073000Z
+SUMMARY:Crypto’s First Real Bull Market: Here’s How High We Go.
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Ran Neuner - Found
+ er\, Crypto Banter\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:b533e9c73939ee4d@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T072000Z
+DTEND:20261007T075000Z
+SUMMARY:The Great Reallocation: Where Crypto Capital Goes Next
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Richard Galvin
+  - Executive Chairman and CIO\, DACM\n• Dan Tapiero - Founder\, CEO\, an
+ d CIO\, 50T Funds\n• Shiliang Tang - CEO\, Monarq Asset Management\n• 
+ Chris Rayner-Cook - CIO\, Brevan Howard\n\nModerator:\n• Jessica Walker 
+ - Global Media and Content Lead\, Binance\n\nhttps://token2049.com/singapo
+ re/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:ef1f86c1f63f434f@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T073000Z
+DTEND:20261007T080000Z
+SUMMARY:Crypto’s Identity Crisis: What Are We Actually Betting On?
+DESCRIPTION:Panel\nStage: MEXC Stage\n\nSpeakers:\n• Kelvin Koh - Co-Foun
+ der and Partner\, Spartan Group\n• Santiago Roel Santos - Founder and CE
+ O\, Inversion\n• Rajiv Patel-O'Connor - General Partner\, Framework Vent
+ ures\n\nModerator:\n• Larry Cermak - President\, The Block\n\nhttps://to
+ ken2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:7e59e9406b0ced4e@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T073500Z
+DTEND:20261007T080000Z
+SUMMARY:Lando Norris × OKX: The Drive to Win
+DESCRIPTION:Fireside\nStage: OKX Main Stage\n\nSpeakers:\n• Lando Norris 
+ - Driver\, McLaren Mastercard Formula 1 Team\n\nModerator:\n• Haider Raf
+ ique - Managing Partner and CMO\, OKX\n\nhttps://token2049.com/singapore/a
+ genda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:44118b11f3f543ab@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T074500Z
+DTEND:20261007T080000Z
+SUMMARY:From Protocols to Chips: Building the Full Stack for Decentralized 
+ AI
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Daniil Libe
+ rman - Co-Creator\, Gonka\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:1dc822dbef6c8519@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T075000Z
+DTEND:20261007T082000Z
+SUMMARY:Tokenized Markets: How Institutional Finance Moves Onchain
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Andrew McCormi
+ ck - Head of Institutional and Market Dev\, Chainlink\n• Michael Higgins
+  - International CEO\, Ripple Prime\n• Joshua Lim - Global Head of Marke
+ ts\, FalconX\n\nModerator:\n• Roland Chai - EVP and Head of Digital Liqu
+ idity Networks\, NASDAQ\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:a8a4465bf0985be5@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T080000Z
+DTEND:20261007T081500Z
+SUMMARY:Master the Trenches: Price Impact\, VWAP\, and uPnL
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Dennis Qian - Co-F
+ ounder\, Definitive Finance\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:d557ccbbfafd346d@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T080000Z
+DTEND:20261007T083500Z
+SUMMARY:Raoul Pal & Zoltan Pozsar: The New Money Order (Chatham House Rules
+ )
+DESCRIPTION:Fireside\nStage: OKX Main Stage\n\nSpeakers:\n• Zoltan Pozsar
+  - Founder and CEO\, Ex Uno Plures\n\nModerator:\n• Raoul Pal - Co-Found
+ er and CEO\, Real Vision\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:c057a9acd26c0876@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T081500Z
+DTEND:20261007T083000Z
+SUMMARY:The Center of Gravity Has Moved: Asia’s AI & Crypto Decade
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Magnus Grim
+ eland - Founder and CEO\, Antler\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:2e6fd25a3cf284f4@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T081500Z
+DTEND:20261007T083000Z
+SUMMARY:2026 is the Year that Fundamentals Outperformed
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Lasse Clausen - Fo
+ unding Partner\, 1kx\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:4040a0f110102a23@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T082000Z
+DTEND:20261007T085000Z
+SUMMARY:Quantum: An Existential Threat to Crypto?
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Alex Pruden - 
+ Co-Founder and CEO\, Project Eleven\n• Eli Ben-Sasson - Co-Founder and C
+ EO\, StarkWare\n• Arthur Breitman - Co-Founder\, Tezos\n\nModerator:\n
+ • Ren CF - General Partner\, Electric Capital\n\nhttps://token2049.com/s
+ ingapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:ee886b934ecbd629@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T083000Z
+DTEND:20261007T084500Z
+SUMMARY:When Games Become Reality: The Return of the Metaverse
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Yat Siu - C
+ o-Founder and Executive Chairman\, Animoca Brands\n\nhttps://token2049.com
+ /singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:46526839f74561a7@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T083000Z
+DTEND:20261007T084500Z
+SUMMARY:Everyone Is an Asset Allocator Now
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Kash Dhanda - COO\
+ , Jupiter\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:183e415fcbdb1cad@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T083500Z
+DTEND:20261007T091000Z
+SUMMARY:The Agent Economy: Why AI Needs Crypto
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Illia Polosukhin
+  - Co-Founder\, NEAR Protocol\n• Emad Mostaque - Founder and CEO\, Intel
+ ligent Internet\n• Jesse Pollak - Head of Base\, Base\n\nModerator:\n•
+  Tarun Chitra - Co-Founder and CEO\, Gauntlet\n\nhttps://token2049.com/sin
+ gapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:08bafddd17683fab@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T084500Z
+DTEND:20261007T090000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• JF Rochet - EVP Co
+ nsumer Services\, Ledger\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:205c258923e0fae3@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T085000Z
+DTEND:20261007T093000Z
+SUMMARY:Steady Lads Live
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Taiki Maeda - 
+ Humble Farmer\, Humble Farmer Army\n• Justin Bram - Investor\n• Dim Se
+ lk - Investments\, Selini Capital\n\nModerator:\n• Jordi Alexander - Fou
+ nder\, Selini Capital\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:046ac689cdab0c4f@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T090000Z
+DTEND:20261007T091500Z
+SUMMARY:What Is Next for Stablecoins
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Luca Prospe
+ ri - Co-Founder and CEO\, M0\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:847eb26147b8ec77@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T090000Z
+DTEND:20261007T090500Z
+SUMMARY:Welcome to the NEXUS Startup Competition First Round
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nSpeakers:\n• Tom Sc
+ hmidt - General Partner\, Dragonfly\n• Akshat Vaidya - Co-Founder and Ma
+ naging Partner\, Maelstrom\n• Spencer Applebaum - GP and Co-Head of Vent
+ ure\, Multicoin Capital\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd032a525adb7ef@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T090500Z
+DTEND:20261007T091000Z
+SUMMARY:NEXUS Startup Competition Pitch #1 - Bermuda Bay
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nSpeakers:\n• Jan Ph
+ ilipp Fritsche - Co-Founder\, Bermuda\n\nhttps://token2049.com/singapore/a
+ genda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:77f8ff0acbded69c@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T091000Z
+DTEND:20261007T091500Z
+SUMMARY:NEXUS Startup Competition Pitch #2 - Helix
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nSpeakers:\n• Jitend
+ ra Singh Jaitawat - Co-Founder and CEO\, Helix\n\nhttps://token2049.com/si
+ ngapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:73913d224e23fcd4@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T091000Z
+DTEND:20261007T094000Z
+SUMMARY:Memecoins: Dead or Just Getting Started?
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Murad Mahmudov -
+  Investor\n• Ansem ​ - Co-Founder\, Bullpen\n• Paul Erlanger - CEO\,
+  fomo\n\nModerator:\n• Ran Neuner - Founder\, Crypto Banter\n\nhttps://t
+ oken2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:d48d35b7e9a67351@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T091500Z
+DTEND:20261007T093000Z
+SUMMARY:The Distribution Problem: Tokenization's Next Bottleneck
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Jim Hiltner
+  - Co-Founder\, Superstate\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:e74f73bfdbb2af09@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T091500Z
+DTEND:20261007T092000Z
+SUMMARY:NEXUS Startup Competition Pitch #3 - Crebit Pay
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nSpeakers:\n• Jensen
+  Coonradt - CEO\, Crebit Pay\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:d44705e57d947a07@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T092000Z
+DTEND:20261007T092500Z
+SUMMARY:NEXUS Startup Competition Pitch #4 - The Risk Protocol
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nSpeakers:\n• Karamv
+ ir Gosal - CEO\, The Risk Protocol\n\nhttps://token2049.com/singapore/agen
+ da
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:f82ed3f33752cd65@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T092500Z
+DTEND:20261007T093000Z
+SUMMARY:NEXUS Startup Competition Pitch #5 - CRSHMARKET
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nSpeakers:\n• Evan R
+ ama - Co-Founder and CEO\, CRSHMARKET\n\nhttps://token2049.com/singapore/a
+ genda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:3fdcab128abdb144@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T093000Z
+DTEND:20261007T094500Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Miguel More
+ l - CEO\, Arkham\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:3060a6d7aa8e8355@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T093000Z
+DTEND:20261007T093500Z
+SUMMARY:NEXUS Startup Competition Pitch #6 - Liquida
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nSpeakers:\n• Dewi P
+ errin - Co-Founder\, Liquida\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:300b94ba2b7e1b08@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T093500Z
+DTEND:20261007T094000Z
+SUMMARY:NEXUS Startup Competition Pitch #7 - Gyld Finance
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nSpeakers:\n• Ruchir
+  Gupta - Co-Founder\, Gyld Finance\n\nhttps://token2049.com/singapore/agen
+ da
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:acda800aaecaeab8@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T094000Z
+DTEND:20261007T094500Z
+SUMMARY:NEXUS Startup Competition Pitch #8 - human.tech
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nhttps://token2049.com
+ /singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:0c1a317aacf1ffb8@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T094000Z
+DTEND:20261007T100000Z
+SUMMARY:One Gate\, Everything Money: For a World That Never Stops
+DESCRIPTION:Fireside\nStage: OKX Main Stage\n\nSpeakers:\n• Max Verstappe
+ n - 4 x Formula One World Champion\, Oracle Red Bull Racing\n• Lin Han -
+  Founder and CEO\, Gate\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:b55647944c59096a@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T094500Z
+DTEND:20261007T095000Z
+SUMMARY:NEXUS Startup Competition Pitch #9 - Surge Credit
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nSpeakers:\n• Michae
+ l Borglin - CEO\, Surge Credit\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:9850ca6feb9d6e8d@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T095000Z
+DTEND:20261007T095500Z
+SUMMARY:NEXUS Startup Competition Pitch #10 - Ask Gina
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nSpeakers:\n• Sid Sh
+ ekhar - CEO\, Ask Gina\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:99425f8381ade75d@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T095500Z
+DTEND:20261007T100000Z
+SUMMARY:NEXUS First Round Summary
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nhttps://token2049.com
+ /singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:f11fb2f18698425f@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T100000Z
+DTEND:20261007T113000Z
+SUMMARY:Networking Drinks
+DESCRIPTION:General\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+UID:b7dc61727fcf2920@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261007T233000Z
+DTEND:20261008T010000Z
+SUMMARY:Continental Breakfast
+DESCRIPTION:General\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+UID:1e011278c2c6ca06@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T010000Z
+DTEND:20261008T011000Z
+SUMMARY:TOKEN2049 Day 2
+DESCRIPTION:Intro\nStage: OKX Main Stage\n\nhttps://token2049.com/singapore
+ /agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Intro
+END:VEVENT
+BEGIN:VEVENT
+UID:a1bde7c76b1368c1@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T011000Z
+DTEND:20261008T014000Z
+SUMMARY:The New Institutional Market: Tokenized Assets. Global Liquidity. O
+ nchain Settlement
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Jenny Johnson - 
+ CEO\, Franklin Templeton\n• Richard Teng - Co-CEO\, Binance\n• Yuval R
+ ooz - Co-Founder and CEO\, Canton\n\nModerator:\n• Michael Ippolito - Co
+ -Founder\, Blockworks\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:0a22323a53e44d74@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T011500Z
+DTEND:20261008T014500Z
+SUMMARY:The $2T Question: How To Make Tokenized Assets Productive?
+DESCRIPTION:Panel\nStage: MEXC Stage\n\nSpeakers:\n• Kristen Mierzwa - He
+ ad of Digital Assets\, FTSE Russell\n• Vinh Tran - Associate Director\, 
+ Digital Assets\, WisdomTree\n\nModerator:\n• Marcin Kazmierczak - Co-Fou
+ nder and COO\, RedStone / Credora\n\nhttps://token2049.com/singapore/agend
+ a
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:ea04508b164a6729@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T014000Z
+DTEND:20261008T020000Z
+SUMMARY:Midnight City
+DESCRIPTION:Keynote\nStage: OKX Main Stage\n\nSpeakers:\n• Charles Hoskin
+ son - Founder and CEO\, Input Output Group\n\nhttps://token2049.com/singap
+ ore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:38122d1236804104@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T014500Z
+DTEND:20261008T020000Z
+SUMMARY:The Path to Scaling Zcash
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Dev Ojha - Founder
+ \, Valargroup / Zcash\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:e769104679c61190@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T020000Z
+DTEND:20261008T024000Z
+SUMMARY:The Machine Native Economy: Do Digital Assets Benefit from AI?
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Dovey Wan - Fo
+ under\, Primitive Ventures\n• Alexander Good - Founder\, Post Fiat\n• 
+ David Choi - Co-Founder\, USD.AI\n\nModerator:\n• Jordi Alexander - Foun
+ der\, Selini Capital\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:8b4e567b32778919@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T020000Z
+DTEND:20261008T021500Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• YQ Jia - Fo
+ under\, AltLayer\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:65218c0f11e52081@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T020000Z
+DTEND:20261008T022000Z
+SUMMARY:The New Macro Order: Liquidity\, Capital and Digital Assets
+DESCRIPTION:Fireside\nStage: Institutional Stage\n\nSpeakers:\n• Zoltan P
+ ozsar - Founder and CEO\, Ex Uno Plures\n\nModerator:\n• Timothy Moe - C
+ hief Asia Pacific Equity Strategist\, Goldman Sachs\n\nhttps://token2049.c
+ om/singapore/agenda
+LOCATION:Institutional Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:d09e8e832daf5e5d@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T020000Z
+DTEND:20261008T021500Z
+SUMMARY:No Banks: Why AI Makes Zcash Inevitable
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Josh Swihart - Fou
+ nder and CEO\, ZODL\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:1d143d01120a7bfb@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T020000Z
+DTEND:20261008T024000Z
+SUMMARY:Regulation: Finding Clarity Across Borders
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Brian Quintenz -
+  Director\, SUI Group Holdings\n• Jake Chervinsky - CEO\, Hyperliquid Po
+ licy Center\n• Deepa Raja Carbon - Vice Chair and Managing Director\, VA
+ RA\n• Arjun Sethi - Co-CEO\, Payward / Kraken\n\nModerator:\n• Henri A
+ rslanian - Co-Founder and Managing Partner\, Nine Blocks Capital Managemen
+ t\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:97228a0b9658b859@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T021500Z
+DTEND:20261008T023000Z
+SUMMARY:Bitcoin's Quantum Readiness: From Exposure to Upgrade
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Ren CF - Ge
+ neral Partner\, Electric Capital\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:6eb6ac8da4d01a8f@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T021500Z
+DTEND:20261008T023000Z
+SUMMARY:Will Quantum End "Your Keys\, Your Coins"?
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Eli Ben-Sasson - C
+ o-Founder and CEO\, StarkWare\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:c88a78832bdcbe05@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T022000Z
+DTEND:20261008T024000Z
+SUMMARY:The Next Wave of Institutional Capital
+DESCRIPTION:Panel\nStage: Institutional Stage\n\nSpeakers:\n• Tom Lee - C
+ IO and Portfolio Manager / Chairman\, Fundstrat / BitMine\n• Jenny Johns
+ on - CEO\, Franklin Templeton\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Institutional Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7bf0c683dacc00@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T023000Z
+DTEND:20261008T024500Z
+SUMMARY:The Great Unbundling of Finance
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Sam Kazemian - Fou
+ nder and CEO\, Frax\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:d2348fdba254fcf5@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T024000Z
+DTEND:20261008T030000Z
+SUMMARY:The Machine Economy Won't Wait
+DESCRIPTION:Keynote\nStage: BingX Labs Stage\n\nSpeakers:\n• Adeniyi Abio
+ dun - Co-Founder and CPO\, Mysten Labs\n\nhttps://token2049.com/singapore/
+ agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:37bcb7881c9171d2@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T024000Z
+DTEND:20261008T030000Z
+SUMMARY:Fireside Chat: Winklevoss
+DESCRIPTION:Panel\nStage: Institutional Stage\n\nSpeakers:\n• Tyler Winkl
+ evoss - Co-Founder and CEO\, Gemini\n• Cameron Winklevoss - Co-Founder a
+ nd President\, Gemini\n\nModerator:\n• Haslinda Amin - Anchor and Editor
+ -at-Large\, Bloomberg\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Institutional Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:7b5dc722bbe66f2c@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T024000Z
+DTEND:20261008T031000Z
+SUMMARY:Crypto: The End of the Beginning
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Kyle Samani - Ch
+ airman\, Forward Industries\n• Haseeb Qureshi - Managing Partner\, Drago
+ nfly\n\nModerator:\n• Santiago Roel Santos - Founder and CEO\, Inversion
+ \n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:ac2c73b9da62ff83@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T024500Z
+DTEND:20261008T030000Z
+SUMMARY:Fireside Chat: Tristan Thompson
+DESCRIPTION:Fireside\nStage: Bit Digital Stage\n\nSpeakers:\n• Tristan Th
+ ompson - NBA Champion\n\nModerator:\n• Amanda Cassatt - Founder and CEO\
+ , Serotonin\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:228d79c0070c1912@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T024500Z
+DTEND:20261008T030000Z
+SUMMARY:No More Impermanent Loss: Research Turned Into Real Strategy
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Michael Egorov - F
+ ounder\, Curve Finance / Yield Basis\n\nhttps://token2049.com/singapore/ag
+ enda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:00d80f4e30f1aa6c@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T030000Z
+DTEND:20261008T032000Z
+SUMMARY:Leading the Convergence of TradFi and DeFi
+DESCRIPTION:Fireside\nStage: BingX Labs Stage\n\nSpeakers:\n• Stani Kulec
+ hov - Founder and CEO\, Aave Labs\n\nModerator:\n• Andy Cavanaugh - Co-F
+ ounder\, The Rollup\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:e67457e5458abe03@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T030000Z
+DTEND:20261008T031500Z
+SUMMARY:Asia’s Next Export: Its Capital Markets
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Saeed Badre
+ g - CEO\, Sunrise\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:4a1e20918b194beb@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T030000Z
+DTEND:20261008T032000Z
+SUMMARY:Crypto Without Clarity: What Happens Next?
+DESCRIPTION:Panel\nStage: Institutional Stage\n\nSpeakers:\n• Brian Quint
+ enz - Director\, SUI Group Holdings\n• Mike Belshe - Co-Founder and CEO\
+ , Bitgo\n\nModerator:\n• Jacquelyn Melinek - Founder and CEO\, Stratamed
+ ia\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Institutional Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:4d93649df2d71b4b@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T030000Z
+DTEND:20261008T031500Z
+SUMMARY:The Crowdsourced Quant Competition Running a Market-Neutral Stat Ar
+ b Vault
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Leigh Drogen - GP 
+ and CIO\, Starkiller Capital\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:4d90d9d4eb37489e@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T031000Z
+DTEND:20261008T034000Z
+SUMMARY:Stablecoins: The Payments Industry\, Rebuilt
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• May Zabaneh - SV
+ P\, Paypal\n• Ivan Soto-Wright - Founder and CEO\, Moonpay\n• Farooq M
+ alik - Co-Founder and CEO\, Rain\n\nModerator:\n• Frank Chaparro - Head 
+ of Strategic Communications\, GSR\n\nhttps://token2049.com/singapore/agend
+ a
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:a45578f89c5d17f6@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T031500Z
+DTEND:20261008T033000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Yu Hu - CEO
+ \, Kaito AI\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:8a6fd9b038ba5e36@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T031500Z
+DTEND:20261008T033000Z
+SUMMARY:The Agentic Era of Finance: Co-Invest and Beyond
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Franklyn Wang - CE
+ O\, Liquid / CoInvest\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:b3dfe3c27407e0b0@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T032000Z
+DTEND:20261008T040000Z
+SUMMARY:Chopping Block Live with Balaji Srinivasan & Arthur Hayes
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Balaji Sriniva
+ san - Founder\, Investor\, and Author\, The Network State\n• Arthur Haye
+ s - CIO\, Maelstrom\n• Tarun Chitra - CEO\, Gauntlet\n• Tom Schmidt - 
+ General Partner\, Dragonfly\n\nModerator:\n• Haseeb Qureshi - Managing P
+ artner\, Dragonfly\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:11e8ebab83f5e521@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T032000Z
+DTEND:20261008T034000Z
+SUMMARY:Polymarket: The Information Edge
+DESCRIPTION:Fireside\nStage: Institutional Stage\n\nSpeakers:\n• Shayne C
+ oplan - Founder and CEO\, Polymarket\n\nModerator:\n• Rob Hadick - Gener
+ al Partner\, Dragonfly\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Institutional Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:24db768e79c3a424@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T033000Z
+DTEND:20261008T034500Z
+SUMMARY:What’s Next for $TRUMP
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Bill Zanker
+  - Co-Founder\, $TRUMP\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:a6b2c7dbbd7c5875@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T033000Z
+DTEND:20261008T034500Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Austin Federa - Co
+ -Founder and CEO\, DoubleZero\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:68daccab5e1e108d@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T034000Z
+DTEND:20261008T040000Z
+SUMMARY:Institutional Flows: What’s Changed\, What’s Next?
+DESCRIPTION:Panel\nStage: Institutional Stage\n\nSpeakers:\n• Amy Oldenbu
+ rg - Head of Digital Asset Strategy\, Morgan Stanley\n• Laurie Katz - Gl
+ obal Head of Distribution\, Grayscale\n\nModerator:\n• Michael Ippolito 
+ - Co-Founder\, Blockworks\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Institutional Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:e56649c2d0dc1fd0@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T034000Z
+DTEND:20261008T040000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: OKX Main Stage\n\nSpeakers:\n• Olaf Carlson-W
+ ee - Founder and CEO\, Polychain\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:4be9fc3d9476c183@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T034500Z
+DTEND:20261008T040000Z
+SUMMARY:The Parallel AI Blockchain for the Machine Economy
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Juan Jose -
+  CEO\, Bitroot\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:860b63eb56193759@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T034500Z
+DTEND:20261008T040000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Dryden Brown - CEO
+ \, Praxis\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:65ffffc5fffb3493@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T040000Z
+DTEND:20261008T042000Z
+SUMMARY:Why Dubai Wins
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Deepa Raja Car
+ bon - Vice Chair and Managing Director\, VARA\n\nModerator:\n• Henri Ars
+ lanian - Co-Founder and Managing Partner\, Nine Blocks Capital Management\
+ n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:d6991b89447c9f53@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T040000Z
+DTEND:20261008T041500Z
+SUMMARY:The New Era of Websea: Building the Next Generation of Digital Asse
+ t Trading
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Herbert Sim
+  - CMO\, Websea\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:1b7dc35cbf6d4442@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T040000Z
+DTEND:20261008T041500Z
+SUMMARY:Fireside Chat: Frederik Gregaard
+DESCRIPTION:Fireside\nStage: MEXC Stage\n\nSpeakers:\n• Frederik Gregaard
+  - CEO\, Cardano Foundation\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:df6d80ed903f2883@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T040000Z
+DTEND:20261008T043000Z
+SUMMARY:Ethereum’s Next Act: From Asset to Economy
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Joseph Lubin - C
+ o‑Founder / Chairman and CEO\, Ethereum / MetaMask\n• Paul Frambot - C
+ o-Founder and CEO\, Morpho\n• Sam Tabar - CEO\, Bit Digital\n\nModerator
+ :\n• Kartik Talwar - Co-Founder\, ETHGlobal\n\nhttps://token2049.com/sin
+ gapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:2ac8d37970ba0923@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T041500Z
+DTEND:20261008T043000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: MEXC Stage\n\nSpeakers:\n• Max Resnick - Lead
+  Economist\, Anza\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:5796b815bd4978bf@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T042000Z
+DTEND:20261008T050000Z
+SUMMARY:Market Bubble Live with Ansem\, Mayne and Avi Felman
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Mayne - Founde
+ r\, Breakout\n• Avi Felman - CEO\, 1000x Media\n\nModerator:\n• Ansem 
+ ​ - Co-Founder\, Bullpen\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:1063798449193186@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T042000Z
+DTEND:20261008T044000Z
+SUMMARY:Hyperliquid: Building the Infrastructure for All Finance
+DESCRIPTION:Panel\nStage: Institutional Stage\n\nSpeakers:\n• Jeff Yan - 
+ CEO\, Hyperliquid Labs\n• Jake Chervinsky - CEO\, Hyperliquid Policy Cen
+ ter\n• David Schamis - President and CEO\, Hyperliquid Strategies Inc\n\
+ nModerator:\n• Michael Blaugrund - VP\, Strategic Initiatives\, ICE\n\nh
+ ttps://token2049.com/singapore/agenda
+LOCATION:Institutional Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:dc6c01e69eb11d5c@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T043000Z
+DTEND:20261008T044500Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Todd Ault -
+  Founder and CEO\, Ault Capital Group\n\nhttps://token2049.com/singapore/a
+ genda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:be4fe1372eb4ec45@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T043000Z
+DTEND:20261008T050000Z
+SUMMARY:Growing the Pie: Why New Issuers and Allocators are the Future of D
+ eFi
+DESCRIPTION:Panel\nStage: MEXC Stage\n\nhttps://token2049.com/singapore/age
+ nda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:ee1fc33658fdf16c@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T043000Z
+DTEND:20261008T044500Z
+SUMMARY:The Frontier of Bitcoin
+DESCRIPTION:Keynote\nStage: OKX Main Stage\n\nSpeakers:\n• Muneeb Ali - F
+ ounder\, Stacks\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:f06a22091aafaa6f@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T044500Z
+DTEND:20261008T050000Z
+SUMMARY:Fireside Chat with Justin Sun
+DESCRIPTION:Fireside\nStage: OKX Main Stage\n\nSpeakers:\n• Justin Sun - 
+ Founder\, TRON\n\nModerator:\n• Kevin Follonier - Founder\, When Shift h
+ appens\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:dc60abeae2783d5c@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T050000Z
+DTEND:20261008T060000Z
+SUMMARY:Lunch
+DESCRIPTION:General\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+UID:016ddc7bb486e4e9@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T060000Z
+DTEND:20261008T063000Z
+SUMMARY:Crypto Neobanks: The Race to Replace Your Bank
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Mike Silagadze
+  - Founder and CEO\, ether.fi\n• Farooq Malik - Co-Founder and CEO\, Rai
+ n\n• Zaheer Ebtikar - CSO\, Plasma\n\nModerator:\n• Bobby Ong - Co-Fou
+ nder and CEO\, Coingecko\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:293c2c4f3a0a96fd@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T060000Z
+DTEND:20261008T061500Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Sandeep Nai
+ lwal - CEO\, Polygon Foundation\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:5bf4ed852e8d9167@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T060000Z
+DTEND:20261008T062000Z
+SUMMARY:Digital Assets: Strategic Allocation\, Risk and Return
+DESCRIPTION:Panel\nStage: Institutional Stage\n\nSpeakers:\n• Dan Tapiero
+  - Founder\, CEO\, and CIO\, 50T Funds\n• Scott Lawin - President\, Pant
+ era Capital\n\nModerator:\n• Frank Chaparro - Head of Strategic Communic
+ ations\, GSR\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Institutional Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:4e49dd37792b4059@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T060000Z
+DTEND:20261008T063000Z
+SUMMARY:Crypto Venture Capital: What’s Getting Funded Now?
+DESCRIPTION:Panel\nStage: MEXC Stage\n\nSpeakers:\n• Steve Lee - Co-Found
+ er and Managing Partner\, Neoclassic Capital\n• Akshat Vaidya - Co-Found
+ er and Managing Partner\, Maelstrom\n• Min Teo - Managing Partner\, Ethe
+ real Ventures\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:1c15ecf1dbb8efb3@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T060000Z
+DTEND:20261008T062000Z
+SUMMARY:Fireside Chat with Nasdaq CEO Adena Friedman
+DESCRIPTION:Fireside\nStage: OKX Main Stage\n\nSpeakers:\n• Adena Friedma
+ n - Chair and CEO\, Nasdaq\n\nModerator:\n• Joanna Ossinger - Managing E
+ ditor\, CNBC\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Fireside
+END:VEVENT
+BEGIN:VEVENT
+UID:928e596e350a8288@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T062000Z
+DTEND:20261008T064000Z
+SUMMARY:Expanding the Institutional Trading Universe
+DESCRIPTION:Panel\nStage: Institutional Stage\n\nSpeakers:\n• Andy Ross -
+  Head of Institutional Business\, Kalshi\n• Giovanni Vicioso - Global He
+ ad of Cryptocurrency Products\, CME Group\n\nhttps://token2049.com/singapo
+ re/agenda
+LOCATION:Institutional Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:352c12a7df5bc93d@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T063000Z
+DTEND:20261008T070000Z
+SUMMARY:Will AI Break Crypto\, or Make It Stronger?
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Cosmo Jiang - 
+ General Partner\, Pantera Capital\n• Drake Evans - Co-Founder and CTO\, 
+ Agora\n• Jonathan Levin - Co-Founder and CEO\, Chainalysis\n\nModerator:
+ \n• Logan Jastremski - Managing Partner\, Frictionless Capital\n\nhttps:
+ //token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:9e9c03ea424a56a4@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T063000Z
+DTEND:20261008T070000Z
+SUMMARY:Crypto’s Comeback: Are You Holding the Wrong Coins?
+DESCRIPTION:Panel\nStage: MEXC Stage\n\nSpeakers:\n• zeroxkyle - Senior I
+ nvestment Analyst\, DefiLlama\n• Mayne - Founder\, Breakout\n• Dennis 
+ Qian - Co-Founder\, Definitive Finance\n\nModerator:\n• Andy Cavanaugh -
+  Co-Founder\, The Rollup\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:0745f91c61aa5986@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T064000Z
+DTEND:20261008T070000Z
+SUMMARY:24/7 Markets: The Future of Global Trading
+DESCRIPTION:Panel\nStage: Institutional Stage\n\nSpeakers:\n• Adena Fried
+ man - Chair and CEO\, Nasdaq\n• Arjun Sethi - Co-CEO\, Payward / Kraken\
+ n\nModerator:\n• Joanna Ossinger - Managing Editor\, CNBC\n\nhttps://tok
+ en2049.com/singapore/agenda
+LOCATION:Institutional Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:cdc729a88addabfe@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T064000Z
+DTEND:20261008T070000Z
+SUMMARY:The Next 100 Million RWA Holders Are Already Onchain
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Joseph Lubin - C
+ o‑Founder / Chairman and CEO\, Ethereum / MetaMask\n• Johann Kerbrat -
+  SVP and GM\, Crypto and International\, Robinhood\n\nModerator:\n• Davi
+ d Hoffman - Owner\, Bankless\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:4fb36f210a291e17@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T070000Z
+DTEND:20261008T073000Z
+SUMMARY:Institutional Crypto Capital Flows
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Giovanni Vicio
+ so - Global Head of Cryptocurrency Products\, CME Group\n• Liz Martin - 
+ CEO\, Coinbase Institutional\n• Kathleen Wrynn - Global Head of Digital 
+ Assets\, Invesco\n\nModerator:\n• Frank Chaparro - Head of Strategic Com
+ munications\, GSR\n\nhttps://token2049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:7a8dc92846468bce@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T070000Z
+DTEND:20261008T080000Z
+SUMMARY:NEXUS Startup Competition Final Round
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nSpeakers:\n• Tom Sc
+ hmidt - General Partner\, Dragonfly\n• Akshat Vaidya - Co-Founder and Ma
+ naging Partner\, Maelstrom\n• Spencer Applebaum - GP and Co-Head of Vent
+ ure\, Multicoin Capital\n\nhttps://token2049.com/singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:c7ef3207d5b6817d@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T070000Z
+DTEND:20261008T072000Z
+SUMMARY:The Future of Real World Assets - On Chain Equities\, Perps\, and B
+ eyond
+DESCRIPTION:Keynote\nStage: OKX Main Stage\n\nSpeakers:\n• Kyle Samani - 
+ Chairman\, Forward Industries\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:4b787476797d254c@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T071500Z
+DTEND:20261008T073000Z
+SUMMARY:Tokenization: Capital for Humanity
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Monty Metzg
+ er - Chairman\, Toto Finance\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:1288a48a2d7d61a8@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T072000Z
+DTEND:20261008T074000Z
+SUMMARY:Tokenization: Building the Markets of Tomorrow
+DESCRIPTION:Panel\nStage: Institutional Stage\n\nSpeakers:\n• Nikhil Shar
+ ma - Director\, Digital Assets\, BlackRock\n• Bart Smith - CEO\, AVAT\n
+ • Thomas Chen - Head of Commercial\, BNB Chain\n\nModerator:\n• Henri 
+ Arslanian - Co-Founder and Managing Partner\, Nine Blocks Capital Manageme
+ nt\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Institutional Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:acf5dbe431f1f22a@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T072000Z
+DTEND:20261008T075000Z
+SUMMARY:The Speculation Age: When Everything Becomes Tradable
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Johann Kerbrat -
+  SVP and GM\, Crypto and International\, Robinhood\n• Rob Hadick - Gener
+ al Partner\, Dragonfly\n• Akshay BD\n\nModerator:\n• Jordi Alexander -
+  Founder\, Selini Capital\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:28bbe387960ef521@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T073000Z
+DTEND:20261008T080000Z
+SUMMARY:Inside Crypto’s Trading Desks: The Market Outlook
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• Yoann Turpin -
+  Co-Founder\, Wintermute\n• Thomas Uhm - Quant Research Director\, QRT\n
+ • Darius Sit - Founder\, QCP\n• Xin Song - CEO\, GSR\n\nhttps://token2
+ 049.com/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:7135c8d91a9f1753@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T073000Z
+DTEND:20261008T074500Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• John Nahas 
+ - CBO\, Ava Labs\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:7ef698ba807d2284@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T074000Z
+DTEND:20261008T080000Z
+SUMMARY:Stablecoins in Global Payments: Adoption\, Integration and Scale
+DESCRIPTION:Panel\nStage: Institutional Stage\n\nSpeakers:\n• Henri Stern
+  - Co-Founder and CEO\, Privy\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Institutional Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:05a2f7cb687a9a1d@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T075000Z
+DTEND:20261008T082000Z
+SUMMARY:The Next Crypto Cycle Will Look Different
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Kevin Lee - CSO\
+ , BingX\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:2866883516cbdcd3@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T080000Z
+DTEND:20261008T090000Z
+SUMMARY:The TOKEN2049 Roast of Ansem with T.J. Miller
+DESCRIPTION:Panel\nStage: BingX Labs Stage\n\nSpeakers:\n• T.J. Miller - 
+ Actor and Comedian\n• Ansem ​ - Co-Founder\, Bullpen\n\nModerator:\n
+ • Jarred Winn - Founder and CEO\, Winn.solutions\n\nhttps://token2049.co
+ m/singapore/agenda
+LOCATION:BingX Labs Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:38299f3ec93c9910@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T080000Z
+DTEND:20261008T091500Z
+SUMMARY:TOKEN2049 Origins Hackathon Demos
+DESCRIPTION:Hackathon\nStage: MEXC Stage\n\nhttps://token2049.com/singapore
+ /agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Hackathon
+END:VEVENT
+BEGIN:VEVENT
+UID:d28547af5cef87d9@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T081500Z
+DTEND:20261008T083000Z
+SUMMARY:Keynote
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Omar-Shakee
+ b Zahir - Co-Founder and CEO\, SecondLane\n\nhttps://token2049.com/singapo
+ re/agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:74894d3b52ec2c6d@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T082000Z
+DTEND:20261008T090000Z
+SUMMARY:Tokenization: The Next Investment Revolution
+DESCRIPTION:Panel\nStage: OKX Main Stage\n\nSpeakers:\n• Cynthia Lo Besse
+ tte - Head of Digital Asset Management\, Fidelity Investments\n• Hunter 
+ Horsley - CEO\, Bitwise Asset Management\n• Nikhil Sharma - Director\, D
+ igital Assets\, BlackRock\n• Amy Oldenburg - Head of Digital Asset Strat
+ egy\, Morgan Stanley\n\nModerator:\n• Michael Blaugrund - VP\, Strategic
+  Initiatives\, ICE\n\nhttps://token2049.com/singapore/agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:39bc4e898cf177f7@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T083000Z
+DTEND:20261008T084500Z
+SUMMARY:Bridging Onchain Debt Markets with Real World Businesses
+DESCRIPTION:Keynote\nStage: Bit Digital Stage\n\nSpeakers:\n• Benjamin Sa
+ rquis Peillard - Founder and CEO\, Cap\n\nhttps://token2049.com/singapore/
+ agenda
+LOCATION:Bit Digital Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:3329938e67cf1d24@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T091500Z
+DTEND:20261008T093000Z
+SUMMARY:NEXUS Startup Competition Winner Announcement
+DESCRIPTION:Startup Competition\nStage: MEXC Stage\n\nhttps://token2049.com
+ /singapore/agenda
+LOCATION:MEXC Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Startup Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:8b34dcfdb9289a9b@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T095500Z
+DTEND:20261008T100000Z
+SUMMARY:TOKEN2049 Singapore Closing Remarks
+DESCRIPTION:Outro\nStage: OKX Main Stage\n\nhttps://token2049.com/singapore
+ /agenda
+LOCATION:OKX Main Stage\, Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:Outro
+END:VEVENT
+BEGIN:VEVENT
+UID:abe003c2250e4094@token2049-singapore-2026.agenda
+DTSTAMP:20261001T100900Z
+DTSTART:20261008T100000Z
+DTEND:20261008T113000Z
+SUMMARY:Networking Drinks
+DESCRIPTION:General\n\nhttps://token2049.com/singapore/agenda
+LOCATION:Marina Bay Sands\, Singapore
+URL:https://token2049.com/singapore/agenda
+CATEGORIES:General
+END:VEVENT
+END:VCALENDAR
