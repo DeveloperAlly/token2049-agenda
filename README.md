@@ -1,13 +1,14 @@
 # token2049-agenda
 
-Turns conference agenda pages into:
+Simple extension for Token 2049 Singapore 2026 to add conference agenda events (all stages & days) to your calendar!
 
-- a **Chrome extension** that adds "Add to Google Calendar" and ".ics" buttons to every session card,
-- a **Google Sheet** that stays in sync with the site,
-- a subscribable **.ics feed**,
-- a versioned **JSON/CSV snapshot** (git history = change log).
+**Unofficial: an independent tool, not affiliated with or endorsed by TOKEN2049**
 
-Config-driven: a new event is one file in [`events/`](events/). A new site platform is one adapter in [`src/adapters/`](src/adapters/).
+Adds "Add to Google Calendar" and ".ics" buttons to every session on supported conference agenda pages (currently TOKEN2049 Singapore 2026), so you can save any talk to your calendar in one click with the right time, time zone, stage and speakers. A "Download all sessions (.ics)" button exports the full agenda for Apple Calendar, Outlook or Google Calendar.
+
+Private by design: no account, no tracking, no data collection, nothing stored. The extension only runs on the agenda pages it supports and only talks to that agenda site.
+
+Open source: you can read every line of the code, check how it works for your own security, or build it yourself at https://github.com/DeveloperAlly/token2049-agenda
 
 ## ADD EXTENSION TO CHROME/BRAVE LOCALLY
 
@@ -23,6 +24,17 @@ select the unpacked folder -> you're done!
 go to https://token2049.com/singapore/agenda
 
 Now you can save conference agenda items to your calendar. 
+
+## Repo Architecture
+Does this:
+
+- a **Chrome extension** that adds "Add to Google Calendar" and ".ics" buttons to every session card,
+- a **Google Sheet** that stays in sync with the site,
+- a subscribable **.ics feed**,
+- a versioned **JSON/CSV snapshot** (git history = change log).
+
+Config-driven: a new event is one file in [`events/`](events/). A new site platform is one adapter in [`src/adapters/`](src/adapters/).
+
 
 ## Layout
 
