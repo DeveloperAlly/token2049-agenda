@@ -1,0 +1,13 @@
+# Cloudflare Worker backend. No secrets in this file.
+# Secrets: npx wrangler secret put GITHUB_TOKEN --config runners/cloudflare/wrangler.toml
+#          (optional) GOOGLE_SERVICE_ACCOUNT_JSON, RUN_TOKEN
+name = "token2049-agenda"
+main = "worker.js"
+compatibility_date = "2026-09-01"
+
+[triggers]
+crons = ["17 */3 * * *"]
+
+[vars]
+GITHUB_REPOSITORY = "DeveloperAlly/token2049-agenda"
+# SHEET_ID = ""
