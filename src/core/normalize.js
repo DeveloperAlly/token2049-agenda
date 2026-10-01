@@ -69,7 +69,10 @@ export function normalise(raws, event) {
       problems.push(`item ${i} (${title}): no end time, defaulted`);
     }
     const stage = normaliseStage(r.stage, event.stageAliases);
+    // id uses the site's own title, so adding/changing a titlePrefix never changes ids
     const baseId = stableId(`${event.id}|${startLocal}|${stage || ''}|${title.toLowerCase()}`);
+    const prefix = event.titlePrefix || '';
+    const displayTitle = prefix && !title.startsWith(prefix) ? `${prefix}${title}` : title;
     const n = (seen.get(baseId) || 0) + 1;
     seen.set(baseId, n);
 
@@ -83,7 +86,7 @@ export function normalise(raws, event) {
       durationMin: diffMinutes(startLocal, endLocal),
       stage,
       type: clean(r.type) || null,
-      title,
+      title: displayTitle,
       speakers: (r.speakers || []).map(speaker).filter((s) => s.name),
       venue: event.venue || null,
       sourceUrl: event.agendaUrl,

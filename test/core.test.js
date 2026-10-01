@@ -49,6 +49,17 @@ test('normalise builds a full session with stable id', () => {
   assert.equal(normalise([raw], event).sessions[0].id, s.id);
 });
 
+test('titlePrefix is prepended once and does not change the id', () => {
+  const plain = normalise([raw], event).sessions[0];
+  const ev = { ...event, titlePrefix: '[TOKEN2049] ' };
+  const pre = normalise([raw], ev).sessions[0];
+  assert.equal(pre.title, '[TOKEN2049] Polymarket Fireside Chat');
+  assert.equal(pre.id, plain.id);
+  const again = normalise([{ ...raw, title: '[TOKEN2049] Polymarket Fireside Chat' }], ev).sessions[0];
+  assert.equal(again.title, '[TOKEN2049] Polymarket Fireside Chat'); // not doubled
+  assert.equal(new URL(googleCalendarUrl(pre)).searchParams.get('text'), '[TOKEN2049] Polymarket Fireside Chat');
+});
+
 test('missing fields are reported, not silently dropped', () => {
   const { sessions, problems } = normalise([{ ...raw, day: '' }], event);
   assert.equal(sessions.length, 0);
